@@ -24,6 +24,6 @@ ASHS stands for “Automatic Segmentation of Hippocampal Subfields.” Here is w
 
 ASHS development is led by [Paul Yushkevich](/members/paul-yushkevich.html).
 
-{% include button.html link="https://sites.google.com/view/ashs-dox/home" text="Documentation" icon="fa-solid fa-book" %}
+{% include button.html link="https://ashs.itksnap.org" text="Documentation" icon="fa-solid fa-book" %}
 {% include button.html link="https://github.com/pyushkevich/ashs" text="Code" icon="fa-brands fa-github" %}
-{% include button.html link="http://www.nitrc.org/projects/ashs/" text="Download (NITRC)" icon="fa-solid fa-download" %}
+{% include button.html link="https://ashs.itksnap.org" text="Download" icon="fa-solid fa-download" %}
