@@ -11,6 +11,7 @@ aliases:
   - Cook, Philip
   - Cook, Philip A
   - Cook, Philip A.
+  - Cook, P
 image: images/wp/2013/02/pac_mainpage.jpg
 role: staff
 links:
