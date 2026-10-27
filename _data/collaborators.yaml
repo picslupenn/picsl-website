@@ -1,0 +1,89 @@
+# DRAFT: collaborating labs and centers shown on the Team page.
+# Entries without `link` have no verified website yet and are shown without a link.
+# `image` is optional; logos have not been added yet.
+- name: PATCH Lab
+  institution: Penn Medicine
+  group: penn
+  description: Penn ADRD Trajectories, Copathology, and Heterogeneity Lab (formerly the Wolk Lab).
+  link: https://patchlab.pennbrain.upenn.edu/
+- name: Penn Alzheimer's Disease Research Center
+  institution: Penn Medicine
+  group: penn
+  description: Alzheimer's Disease Research Center (ADRC).
+- name: Penn Frontotemporal Degeneration Center
+  institution: Penn Medicine
+  group: penn
+  description: Clinical and imaging research on frontotemporal degeneration.
+  link: https://www.pennftdcenter.org
+- name: Center for Neurodegenerative Disease Research (CNDR)
+  institution: Penn Medicine
+  group: penn
+  description: Neuropathology and postmortem studies of neurodegenerative disease.
+  link: https://www.med.upenn.edu/cndr/
+- name: Center for Functional Neuroimaging (CFN)
+  institution: Penn Medicine
+  group: penn
+  description: Functional and perfusion MRI.
+  link: https://www.cfn.upenn.edu
+- name: Center for Biomedical Image Computing and Analytics (CBICA)
+  institution: Penn Medicine
+  group: penn
+  description: Biomedical image analysis and machine learning.
+  link: https://www.med.upenn.edu/cbica/
+- name: PennSIVE
+  institution: Penn Biostatistics
+  group: penn
+  description: Penn Statistics in Imaging and Visualization Center.
+  link: https://pennsive.github.io
+- name: Satterthwaite Lab
+  institution: Lifespan Brain Institute
+  group: penn
+  description: Brain development and psychiatric neuroimaging.
+- name: Gorman Cardiac Surgery Lab
+  institution: Penn Medicine
+  group: penn
+  description: Cardiac surgery and valve imaging research.
+- name: Maternal-Fetal Medicine
+  institution: Penn Medicine
+  group: penn
+  description: Fetal and placental imaging.
+- name: Jolley Lab
+  institution: Children's Hospital of Philadelphia and Penn
+  group: penn
+  description: Congenital heart disease imaging and modeling.
+- name: Chaudhari Lab
+  institution: Penn Engineering (GRASP)
+  group: penn
+  description: Machine learning and deep learning.
+  link: https://pratikac.github.io
+- name: Hippocampal Subfields Group
+  institution: International consortium
+  group: external
+  description: Harmonized protocols for hippocampal subfield and medial temporal lobe segmentation.
+  link: https://www.hippocampalsubfields.com
+- name: Human Neuroanatomy Laboratory
+  institution: Universidad de Castilla-La Mancha, Albacete, Spain
+  group: external
+  description: Histology and ex vivo MRI of the human medial temporal lobe (R. Insausti).
+- name: ANTsX
+  institution: University of Virginia and collaborators
+  group: external
+  description: Advanced Normalization Tools for image registration and segmentation.
+  link: https://stnava.github.io/ANTs/
+- name: Wisse Lab
+  institution: Lund University, Sweden
+  group: external
+  description: Medial temporal lobe imaging in aging and dementia.
+- name: Neuropresage
+  institution: INSERM U1077, Université de Caen Normandie, France
+  group: external
+  description: Imaging of early Alzheimer's disease (R. de Flores).
+- name: ENIGMA Consortium / Imaging Genetics Center
+  institution: University of Southern California
+  group: external
+  description: Large-scale brain imaging and genetics collaborations.
+  link: https://enigma.ini.usc.edu
+- name: Chang Gung Memorial Hospital
+  institution: Taiwan
+  group: external
+  description: Clinical neuroimaging collaborations.
