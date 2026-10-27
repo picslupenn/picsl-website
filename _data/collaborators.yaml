@@ -1,89 +1,115 @@
-# DRAFT: collaborating labs and centers shown on the Team page.
-# Entries without `link` have no verified website yet and are shown without a link.
-# `image` is optional; logos have not been added yet.
-- name: PATCH Lab
-  institution: Penn Medicine
+# Collaborating labs and centers shown on the Team page (team/index.md).
+# group: penn or external. Logos are in images/collaborators/; groups without
+# their own logo use their institution's logo. `link` is optional.
+- title: PATCH Lab
+  subtitle: Penn Medicine
   group: penn
   description: Penn ADRD Trajectories, Copathology, and Heterogeneity Lab (formerly the Wolk Lab).
+  image: images/collaborators/patch-lab.png
   link: https://patchlab.pennbrain.upenn.edu/
-- name: Penn Alzheimer's Disease Research Center
-  institution: Penn Medicine
+- title: Penn Alzheimer's Disease Research Center
+  subtitle: Penn Medicine
   group: penn
   description: Alzheimer's Disease Research Center (ADRC).
-- name: Penn Frontotemporal Degeneration Center
-  institution: Penn Medicine
+  image: images/collaborators/penn.png
+  link: https://www.med.upenn.edu/adrc/
+- title: Penn Frontotemporal Degeneration Center
+  subtitle: Penn Medicine
   group: penn
   description: Clinical and imaging research on frontotemporal degeneration.
+  image: images/collaborators/penn-ftd-center.png
   link: https://www.pennftdcenter.org
-- name: Center for Neurodegenerative Disease Research (CNDR)
-  institution: Penn Medicine
+- title: Center for Neurodegenerative Disease Research (CNDR)
+  subtitle: Penn Medicine
   group: penn
   description: Neuropathology and postmortem studies of neurodegenerative disease.
+  image: images/collaborators/penn.png
   link: https://www.med.upenn.edu/cndr/
-- name: Center for Functional Neuroimaging (CFN)
-  institution: Penn Medicine
+- title: Center for Functional Neuroimaging (CfN)
+  subtitle: Penn Medicine
   group: penn
   description: Functional and perfusion MRI.
-  link: https://www.cfn.upenn.edu
-- name: Center for Biomedical Image Computing and Analytics (CBICA)
-  institution: Penn Medicine
+  image: images/collaborators/penn.png
+  link: https://www.pennmedicine.org/departments-and-centers/department-of-radiology/radiology-research/labs-and-centers/quantitative/center-for-functional-neuroimaging
+- title: Center for Biomedical Image Computing and Analytics (CBICA)
+  subtitle: Penn Medicine
   group: penn
   description: Biomedical image analysis and machine learning.
+  image: images/collaborators/cbica.png
   link: https://www.med.upenn.edu/cbica/
-- name: PennSIVE
-  institution: Penn Biostatistics
+- title: PennSIVE
+  subtitle: Penn Biostatistics
   group: penn
   description: Penn Statistics in Imaging and Visualization Center.
+  image: images/collaborators/pennsive.png
   link: https://pennsive.github.io
-- name: Satterthwaite Lab
-  institution: Lifespan Brain Institute
+- title: PennLINC (Satterthwaite Lab)
+  subtitle: Lifespan Brain Institute
   group: penn
-  description: Brain development and psychiatric neuroimaging.
-- name: Gorman Cardiac Surgery Lab
-  institution: Penn Medicine
+  description: Penn Lifespan Informatics and Neuroimaging Center. Brain development and psychiatric neuroimaging.
+  image: images/collaborators/pennlinc.png
+  link: https://www.pennlinc.io
+- title: Gorman Cardiovascular Research Group
+  subtitle: Penn Medicine
   group: penn
   description: Cardiac surgery and valve imaging research.
-- name: Maternal-Fetal Medicine
-  institution: Penn Medicine
+  image: images/collaborators/penn.png
+- title: Maternal-Fetal Medicine
+  subtitle: Penn Medicine
   group: penn
   description: Fetal and placental imaging.
-- name: Jolley Lab
-  institution: Children's Hospital of Philadelphia and Penn
+  image: images/collaborators/penn.png
+  link: https://www.pennmedicine.org/departments-and-centers/obstetrics-and-gynecology/divisions/maternal-fetal-medicine
+- title: Jolley Lab
+  subtitle: Children's Hospital of Philadelphia and Penn
   group: penn
   description: Congenital heart disease imaging and modeling.
-- name: Chaudhari Lab
-  institution: Penn Engineering (GRASP)
+  image: images/collaborators/chop.png
+  link: https://www.research.chop.edu/jolley-laboratory
+- title: Chaudhari Lab
+  subtitle: Penn Engineering (GRASP)
   group: penn
   description: Machine learning and deep learning.
+  image: images/collaborators/penn.png
   link: https://pratikac.github.io
-- name: Hippocampal Subfields Group
-  institution: International consortium
+- title: Hippocampal Subfields Group
+  subtitle: International consortium
   group: external
   description: Harmonized protocols for hippocampal subfield and medial temporal lobe segmentation.
-  link: https://www.hippocampalsubfields.com
-- name: Human Neuroanatomy Laboratory
-  institution: Universidad de Castilla-La Mancha, Albacete, Spain
+  image: images/collaborators/hippocampal-subfields-group.png
+  link: https://hippocampalsubfields.com
+- title: Human Neuroanatomy Laboratory
+  subtitle: Universidad de Castilla-La Mancha, Albacete, Spain
   group: external
-  description: Histology and ex vivo MRI of the human medial temporal lobe (R. Insausti).
-- name: ANTsX
-  institution: University of Virginia and collaborators
+  description: Histology and ex vivo MRI of the human medial temporal lobe (R. Insausti, E. Artacho-Pérula).
+  image: images/collaborators/uclm.png
+- title: ANTsX
+  subtitle: University of Virginia and collaborators
   group: external
   description: Advanced Normalization Tools for image registration and segmentation.
-  link: https://stnava.github.io/ANTs/
-- name: Wisse Lab
-  institution: Lund University, Sweden
+  image: images/collaborators/antsx.png
+  link: https://github.com/ANTsX
+- title: Wisse Lab
+  subtitle: Lund University, Sweden
   group: external
   description: Medial temporal lobe imaging in aging and dementia.
-- name: Neuropresage
-  institution: INSERM U1077, Université de Caen Normandie, France
+  image: images/collaborators/lund.png
+  link: https://portal.research.lu.se/en/persons/laura-wisse
+- title: NIMH, Inserm U1077
+  subtitle: Université de Caen Normandie, France
   group: external
-  description: Imaging of early Alzheimer's disease (R. de Flores).
-- name: ENIGMA Consortium / Imaging Genetics Center
-  institution: University of Southern California
+  description: Neuropsychology and imaging of human memory (R. de Flores).
+  image: images/collaborators/nimh-caen.png
+  link: https://nimh.unicaen.fr/en/
+- title: ENIGMA Consortium
+  subtitle: Imaging Genetics Center, University of Southern California
   group: external
   description: Large-scale brain imaging and genetics collaborations.
+  image: images/collaborators/enigma.png
   link: https://enigma.ini.usc.edu
-- name: Chang Gung Memorial Hospital
-  institution: Taiwan
+- title: Chang Gung Memorial Hospital
+  subtitle: Taiwan
   group: external
   description: Clinical neuroimaging collaborations.
+  image: images/collaborators/chang-gung.png
+  link: https://www.cgmh.org.tw/eng
