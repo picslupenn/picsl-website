@@ -25,12 +25,18 @@
   description: Neuropathology and postmortem studies of neurodegenerative disease.
   image: images/collaborators/penn.png
   link: https://www.med.upenn.edu/cndr/
-- title: Center for Functional Neuroimaging (CfN)
-  subtitle: Penn Medicine
+- title: Penn Digital Neuropathology Lab
+  subtitle: Penn Neurology
+  group: penn
+  description: Digital histopathology and image analysis of human brain tissue to improve antemortem diagnosis of neurodegenerative disease.
+  image: images/collaborators/digital-neuropathology-lab.png
+  link: https://www.med.upenn.edu/digitalneuropathologylab/
+- title: Detre Lab
+  subtitle: Penn Neurology
   group: penn
   description: Functional and perfusion MRI.
-  image: images/collaborators/penn.png
-  link: https://www.pennmedicine.org/departments-and-centers/department-of-radiology/radiology-research/labs-and-centers/quantitative/center-for-functional-neuroimaging
+  image: images/collaborators/detre-lab.png
+  link: https://hosting.med.upenn.edu/detrelab/
 - title: Center for Biomedical Image Computing and Analytics (CBICA)
   subtitle: Penn Medicine
   group: penn
@@ -42,18 +48,19 @@
   group: penn
   description: Penn Statistics in Imaging and Visualization Center.
   image: images/collaborators/pennsive.png
-  link: https://pennsive.github.io
+  link: https://dbei.med.upenn.edu/center-of-excellence/pennsive/
 - title: PennLINC (Satterthwaite Lab)
   subtitle: Lifespan Brain Institute
   group: penn
   description: Penn Lifespan Informatics and Neuroimaging Center. Brain development and psychiatric neuroimaging.
   image: images/collaborators/pennlinc.png
   link: https://www.pennlinc.io
-- title: Gorman Cardiovascular Research Group
+- title: Gorman-Gillespie Structural Heart Group
   subtitle: Penn Medicine
   group: penn
   description: Cardiac surgery and valve imaging research.
-  image: images/collaborators/penn.png
+  image: images/collaborators/gorman-gillespie.png
+  link: https://gorman-gillespestructuralheart.com/home
 - title: Maternal-Fetal Medicine
   subtitle: Penn Medicine
   group: penn
@@ -83,6 +90,7 @@
   group: external
   description: Histology and ex vivo MRI of the human medial temporal lobe (R. Insausti, E. Artacho-Pérula).
   image: images/collaborators/uclm.png
+  link: https://www.uclm.es/albacete/farmacia/lnh
 - title: ANTsX
   subtitle: University of Virginia and collaborators
   group: external
@@ -95,12 +103,12 @@
   description: Medial temporal lobe imaging in aging and dementia.
   image: images/collaborators/lund.png
   link: https://portal.research.lu.se/en/persons/laura-wisse
-- title: NIMH, Inserm U1077
-  subtitle: Université de Caen Normandie, France
+- title: Neuropresage
+  subtitle: Inserm U1077, Université de Caen Normandie, France
   group: external
-  description: Neuropsychology and imaging of human memory (R. de Flores).
-  image: images/collaborators/nimh-caen.png
-  link: https://nimh.unicaen.fr/en/
+  description: Research on early diagnosis and prevention of Alzheimer's disease and other brain disorders (R. de Flores).
+  image: images/collaborators/neuropresage.png
+  link: https://neuropresage.fr/
 - title: ENIGMA Consortium
   subtitle: Imaging Genetics Center, University of Southern California
   group: external
