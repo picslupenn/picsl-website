@@ -1,1 +1,1 @@
-Sitemap: https://picslupenn.github.io/picsl-website/sitemap.xml
+Sitemap: http://picsl.upenn.edu/sitemap.xml
