@@ -41,8 +41,8 @@ Labs and centers whose investigators frequently co-author papers with PICSL.
 
 ### At Penn
 
-{% include list.html component="card" data="collaborators" filter="group == 'penn'" style="small" %}
+{% include list.html component="portrait" data="collaborators" filter="group == 'penn'" %}
 
 ### Outside Penn
 
-{% include list.html component="card" data="collaborators" filter="group == 'external'" style="small" %}
+{% include list.html component="portrait" data="collaborators" filter="group == 'external'" %}

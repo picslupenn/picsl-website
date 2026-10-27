@@ -1,123 +1,104 @@
-# Collaborating labs and centers shown on the Team page (team/index.md).
-# group: penn or external. Logos are in images/collaborators/; groups without
-# their own logo use their institution's logo. `link` is optional.
-- title: PATCH Lab
-  subtitle: Penn Medicine
+# Collaborating labs and centers shown on the Team page (team/index.md) as
+# portraits. group: penn or external. Logos are square images in
+# images/collaborators/ with the logo centered on white so it fits in the circle;
+# groups without their own logo use their institution's logo. `url` is optional.
+- name: PATCH Lab
+  slug: patch-lab
   group: penn
-  description: Penn ADRD Trajectories, Copathology, and Heterogeneity Lab (formerly the Wolk Lab).
   image: images/collaborators/patch-lab.png
-  link: https://patchlab.pennbrain.upenn.edu/
-- title: Penn Alzheimer's Disease Research Center
-  subtitle: Penn Medicine
+  url: https://patchlab.pennbrain.upenn.edu/
+- name: Penn Alzheimer's Disease Research Center
+  slug: penn-alzheimers-disease-research-center
   group: penn
-  description: Alzheimer's Disease Research Center (ADRC).
   image: images/collaborators/penn.png
-  link: https://www.med.upenn.edu/adrc/
-- title: Penn Frontotemporal Degeneration Center
-  subtitle: Penn Medicine
+  url: https://www.med.upenn.edu/adrc/
+- name: Penn Frontotemporal Degeneration Center
+  slug: penn-frontotemporal-degeneration-center
   group: penn
-  description: Clinical and imaging research on frontotemporal degeneration.
   image: images/collaborators/penn-ftd-center.png
-  link: https://www.pennftdcenter.org
-- title: Center for Neurodegenerative Disease Research (CNDR)
-  subtitle: Penn Medicine
+  url: https://www.pennftdcenter.org
+- name: Center for Neurodegenerative Disease Research (CNDR)
+  slug: center-for-neurodegenerative-disease-research-cndr
   group: penn
-  description: Neuropathology and postmortem studies of neurodegenerative disease.
   image: images/collaborators/penn.png
-  link: https://www.med.upenn.edu/cndr/
-- title: Penn Digital Neuropathology Lab
-  subtitle: Penn Neurology
+  url: https://www.med.upenn.edu/cndr/
+- name: Penn Digital Neuropathology Lab
+  slug: penn-digital-neuropathology-lab
   group: penn
-  description: Digital histopathology and image analysis of human brain tissue to improve antemortem diagnosis of neurodegenerative disease.
   image: images/collaborators/digital-neuropathology-lab.png
-  link: https://www.med.upenn.edu/digitalneuropathologylab/
-- title: Detre Lab
-  subtitle: Penn Neurology
+  url: https://www.med.upenn.edu/digitalneuropathologylab/
+- name: Detre Lab
+  slug: detre-lab
   group: penn
-  description: Functional and perfusion MRI.
   image: images/collaborators/detre-lab.png
-  link: https://hosting.med.upenn.edu/detrelab/
-- title: Center for Biomedical Image Computing and Analytics (CBICA)
-  subtitle: Penn Medicine
+  url: https://hosting.med.upenn.edu/detrelab/
+- name: Center for Biomedical Image Computing and Analytics (CBICA)
+  slug: center-for-biomedical-image-computing-and-analytics-cbica
   group: penn
-  description: Biomedical image analysis and machine learning.
   image: images/collaborators/cbica.png
-  link: https://www.med.upenn.edu/cbica/
-- title: PennSIVE
-  subtitle: Penn Biostatistics
+  url: https://www.med.upenn.edu/cbica/
+- name: PennSIVE
+  slug: pennsive
   group: penn
-  description: Penn Statistics in Imaging and Visualization Center.
   image: images/collaborators/pennsive.png
-  link: https://dbei.med.upenn.edu/center-of-excellence/pennsive/
-- title: PennLINC (Satterthwaite Lab)
-  subtitle: Lifespan Brain Institute
+  url: https://dbei.med.upenn.edu/center-of-excellence/pennsive/
+- name: PennLINC (Satterthwaite Lab)
+  slug: pennlinc-satterthwaite-lab
   group: penn
-  description: Penn Lifespan Informatics and Neuroimaging Center. Brain development and psychiatric neuroimaging.
   image: images/collaborators/pennlinc.png
-  link: https://www.pennlinc.io
-- title: Gorman-Gillespie Structural Heart Group
-  subtitle: Penn Medicine
+  url: https://www.pennlinc.io
+- name: Gorman-Gillespie Structural Heart Group
+  slug: gorman-gillespie-structural-heart-group
   group: penn
-  description: Cardiac surgery and valve imaging research.
   image: images/collaborators/gorman-gillespie.png
-  link: https://gorman-gillespestructuralheart.com/home
-- title: Maternal-Fetal Medicine
-  subtitle: Penn Medicine
+  url: https://gorman-gillespestructuralheart.com/home
+- name: Maternal-Fetal Medicine
+  slug: maternal-fetal-medicine
   group: penn
-  description: Fetal and placental imaging.
   image: images/collaborators/penn.png
-  link: https://www.pennmedicine.org/departments-and-centers/obstetrics-and-gynecology/divisions/maternal-fetal-medicine
-- title: Jolley Lab
-  subtitle: Children's Hospital of Philadelphia and Penn
+  url: https://www.pennmedicine.org/departments-and-centers/obstetrics-and-gynecology/divisions/maternal-fetal-medicine
+- name: Jolley Lab
+  slug: jolley-lab
   group: penn
-  description: Congenital heart disease imaging and modeling.
   image: images/collaborators/chop.png
-  link: https://www.research.chop.edu/jolley-laboratory
-- title: Chaudhari Lab
-  subtitle: Penn Engineering (GRASP)
+  url: https://www.research.chop.edu/jolley-laboratory
+- name: Chaudhari Lab
+  slug: chaudhari-lab
   group: penn
-  description: Machine learning and deep learning.
   image: images/collaborators/penn.png
-  link: https://pratikac.github.io
-- title: Hippocampal Subfields Group
-  subtitle: International consortium
+  url: https://pratikac.github.io
+- name: Hippocampal Subfields Group
+  slug: hippocampal-subfields-group
   group: external
-  description: Harmonized protocols for hippocampal subfield and medial temporal lobe segmentation.
   image: images/collaborators/hippocampal-subfields-group.png
-  link: https://hippocampalsubfields.com
-- title: Human Neuroanatomy Laboratory
-  subtitle: Universidad de Castilla-La Mancha, Albacete, Spain
+  url: https://hippocampalsubfields.com
+- name: Human Neuroanatomy Laboratory
+  slug: human-neuroanatomy-laboratory
   group: external
-  description: Histology and ex vivo MRI of the human medial temporal lobe (R. Insausti, E. Artacho-Pérula).
   image: images/collaborators/uclm.png
-  link: https://www.uclm.es/albacete/farmacia/lnh
-- title: ANTsX
-  subtitle: University of Virginia and collaborators
+  url: https://www.uclm.es/albacete/farmacia/lnh
+- name: ANTsX
+  slug: antsx
   group: external
-  description: Advanced Normalization Tools for image registration and segmentation.
   image: images/collaborators/antsx.png
-  link: https://github.com/ANTsX
-- title: Wisse Lab
-  subtitle: Lund University, Sweden
+  url: https://github.com/ANTsX
+- name: Wisse Lab
+  slug: wisse-lab
   group: external
-  description: Medial temporal lobe imaging in aging and dementia.
   image: images/collaborators/lund.png
-  link: https://portal.research.lu.se/en/persons/laura-wisse
-- title: Neuropresage
-  subtitle: Inserm U1077, Université de Caen Normandie, France
+  url: https://portal.research.lu.se/en/persons/laura-wisse
+- name: Neuropresage
+  slug: neuropresage
   group: external
-  description: Research on early diagnosis and prevention of Alzheimer's disease and other brain disorders (R. de Flores).
   image: images/collaborators/neuropresage.png
-  link: https://neuropresage.fr/
-- title: ENIGMA Consortium
-  subtitle: Imaging Genetics Center, University of Southern California
+  url: https://neuropresage.fr/
+- name: ENIGMA Consortium
+  slug: enigma-consortium
   group: external
-  description: Large-scale brain imaging and genetics collaborations.
   image: images/collaborators/enigma.png
-  link: https://enigma.ini.usc.edu
-- title: Chang Gung Memorial Hospital
-  subtitle: Taiwan
+  url: https://enigma.ini.usc.edu
+- name: Chang Gung Memorial Hospital
+  slug: chang-gung-memorial-hospital
   group: external
-  description: Clinical neuroimaging collaborations.
   image: images/collaborators/chang-gung.png
-  link: https://www.cgmh.org.tw/eng
+  url: https://www.cgmh.org.tw/eng
