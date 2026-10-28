@@ -584,13 +584,13 @@
   tags:
   - software
 - title: Greedy
-  image: images/software/greedy.jpg
+  image: images/software/greedy-card.jpg
   link: /software/greedy.html
   description: Very fast CPU-based affine and deformable registration for pipelines that register many images in parallel.
   tags:
   - software
 - title: Convert3D
-  image: images/software/convert3d.jpg
+  image: images/software/convert3d-card.jpg
   link: /software/convert3d.html
   description: Command-line Swiss army knife for medical image processing that complements ITK-SNAP.
   tags:
