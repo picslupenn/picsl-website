@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" font-family="Barlow, Helvetica, Arial, sans-serif">
+  <rect width="600" height="400" fill="#ffffff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16567a"/></marker>
+  </defs>
+
+  <!-- inputs -->
+  <g text-anchor="middle" font-weight="600">
+    <rect x="25" y="70" width="170" height="80" rx="10" fill="#16567a"/>
+    <text x="110" y="103" font-size="17" fill="#ffffff">T: plasma</text>
+    <text x="110" y="126" font-size="17" fill="#ffffff">p-tau217</text>
+    <rect x="25" y="200" width="170" height="80" rx="10" fill="#16567a"/>
+    <text x="110" y="233" font-size="17" fill="#ffffff">N: MTL thickness</text>
+    <text x="110" y="256" font-size="17" fill="#ffffff">in 100 segments</text>
+  </g>
+
+  <!-- scatter with fit line -->
+  <g transform="translate(262,80)">
+    <line x1="0" y1="190" x2="150" y2="190" stroke="#16567a" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="0" y1="190" x2="0" y2="5" stroke="#16567a" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="10" y1="170" x2="140" y2="30" stroke="#16567a" stroke-width="2.5" stroke-dasharray="7 5"/>
+    <g fill="#d9534f"><circle cx="40" cy="95" r="5"/><circle cx="70" cy="70" r="5"/><circle cx="55" cy="105" r="5"/></g>
+    <g fill="#8a9ba5"><circle cx="35" cy="140" r="5"/><circle cx="75" cy="100" r="5"/><circle cx="105" cy="68" r="5"/><circle cx="90" cy="80" r="5"/></g>
+    <g fill="#00a8d8"><circle cx="100" cy="125" r="5"/><circle cx="125" cy="100" r="5"/><circle cx="85" cy="150" r="5"/></g>
+    <text x="75" y="212" text-anchor="middle" font-size="14" fill="#16567a" font-weight="600">tau (T)</text>
+    <text x="-14" y="98" text-anchor="middle" font-size="14" fill="#16567a" font-weight="600" transform="rotate(-90,-14,98)">atrophy (N)</text>
+  </g>
+  <g stroke="#16567a" stroke-width="2" fill="none" marker-end="url(#a)">
+    <path d="M195,110 C210,110 210,150 224,160"/>
+    <path d="M195,240 C210,240 210,200 224,190"/>
+  </g>
+  <line x1="408" y1="175" x2="427" y2="175" stroke="#16567a" stroke-width="2" marker-end="url(#a)"/>
+
+  <!-- phenotypes -->
+  <g font-weight="600" font-size="15">
+    <rect x="432" y="80" width="150" height="58" rx="10" fill="#d9534f"/>
+    <text x="507" y="105" text-anchor="middle" fill="#ffffff">vulnerable</text><text x="507" y="126" text-anchor="middle" fill="#ffffff" font-size="13">N &gt; T · LATE-like</text>
+    <rect x="432" y="146" width="150" height="58" rx="10" fill="#8a9ba5"/>
+    <text x="507" y="171" text-anchor="middle" fill="#ffffff">canonical</text><text x="507" y="192" text-anchor="middle" fill="#ffffff" font-size="13">N ≈ T</text>
+    <rect x="432" y="212" width="150" height="58" rx="10" fill="#00a8d8"/>
+    <text x="507" y="237" text-anchor="middle" fill="#ffffff">resilient</text><text x="507" y="258" text-anchor="middle" fill="#ffffff" font-size="13">N &lt; T</text>
+  </g>
+  <text x="300" y="355" text-anchor="middle" font-size="15" fill="#16567a">T-N mismatch phenotypes in 447 amyloid-positive ADNI participants</text>
+</svg>

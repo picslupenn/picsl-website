@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" font-family="Barlow, Helvetica, Arial, sans-serif">
+  <rect width="600" height="400" fill="#ffffff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16567a"/></marker>
+  </defs>
+  <text x="300" y="45" text-anchor="middle" font-size="20" font-weight="600" fill="#16567a">Designing a synthetic skeleton in 3D Slicer</text>
+
+  <!-- 1 segmentation -->
+  <path d="M40,190 C40,120 150,110 160,170 C170,230 150,280 100,280 C55,280 40,250 40,190 z" fill="#8fd3ec" stroke="#16567a" stroke-width="2.5"/>
+  <!-- 2 skeletonize -->
+  <path d="M195,190 C195,120 305,110 315,170 C325,230 305,280 255,280 C210,280 195,250 195,190 z" fill="none" stroke="#8fd3ec" stroke-width="2.5"/>
+  <path d="M225,180 C245,170 275,170 295,195 M255,180 C255,215 250,240 245,262" fill="none" stroke="#16567a" stroke-width="3"/>
+  <!-- 3 points and triangulation -->
+  <g stroke="#16567a" stroke-width="1.8" fill="none">
+    <path d="M380,180 L410,172 L440,178 L470,195 M380,180 L400,205 L410,172 M400,205 L440,178 L435,212 L470,195 M400,205 L435,212 L425,240 L400,205 M425,240 L415,262"/>
+  </g>
+  <g fill="#00a8d8"><circle cx="380" cy="180" r="5"/><circle cx="410" cy="172" r="5"/><circle cx="440" cy="178" r="5"/><circle cx="470" cy="195" r="5"/><circle cx="400" cy="205" r="5"/><circle cx="435" cy="212" r="5"/><circle cx="425" cy="240" r="5"/><circle cx="415" cy="262" r="5"/></g>
+  <!-- 4 fitted model -->
+  <path d="M505,190 C505,125 580,118 585,170 C590,225 575,270 545,272 C515,272 505,245 505,190 z" fill="#16567a" opacity="0.85"/>
+  <path d="M520,182 C535,174 555,174 570,192 M545,182 C545,215 542,238 540,258" fill="none" stroke="#00a8d8" stroke-width="3"/>
+
+  <g stroke="#16567a" stroke-width="2" marker-end="url(#a)">
+    <line x1="164" y1="200" x2="188" y2="200"/><line x1="320" y1="200" x2="360" y2="200"/><line x1="478" y1="200" x2="500" y2="200"/>
+  </g>
+  <g font-size="14" font-weight="600" fill="#16567a" text-anchor="middle">
+    <text x="100" y="305">3D segmentation</text>
+    <text x="255" y="305">skeletonize</text>
+    <text x="425" y="305">place points,</text><text x="425" y="322">triangulate</text>
+    <text x="545" y="305">medial model</text>
+  </g>
+  <text x="300" y="370" text-anchor="middle" font-size="14" fill="#16567a">placenta · aortic root · mitral valve · cardiac ventricles · uterus</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" font-family="Barlow, Helvetica, Arial, sans-serif">
+  <rect width="600" height="400" fill="#ffffff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16567a"/></marker>
+    <radialGradient id="brain" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#e8f4f9"/><stop offset="1" stop-color="#8fd3ec"/></radialGradient>
+  </defs>
+
+  <!-- inputs -->
+  <g font-size="15" font-weight="600" fill="#16567a" text-anchor="middle">
+    <ellipse cx="65" cy="110" rx="42" ry="50" fill="url(#brain)" stroke="#16567a" stroke-width="2.5"/>
+    <text x="65" y="185">fixed</text>
+    <ellipse cx="65" cy="290" rx="46" ry="46" fill="url(#brain)" stroke="#16567a" stroke-width="2.5"/>
+    <text x="65" y="362">moving</text>
+  </g>
+
+  <!-- two encoder streams -->
+  <g fill="#16567a">
+    <path d="M135,75 L215,95 L215,125 L135,145 z"/>
+    <path d="M135,255 L215,275 L215,305 L135,325 z"/>
+  </g>
+  <g font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">
+    <text x="172" y="114">stream 1</text>
+    <text x="172" y="294">stream 2</text>
+  </g>
+  <line x1="109" y1="110" x2="131" y2="110" stroke="#16567a" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="113" y1="290" x2="131" y2="290" stroke="#16567a" stroke-width="2" marker-end="url(#a)"/>
+
+  <!-- multilevel query-key matching -->
+  <g font-size="13" font-weight="600" text-anchor="middle">
+    <rect x="255" y="120" width="120" height="40" rx="8" fill="#00a8d8"/><text x="315" y="145" fill="#ffffff">level 1 match</text>
+    <rect x="255" y="180" width="120" height="40" rx="8" fill="#00a8d8"/><text x="315" y="205" fill="#ffffff">level 2 match</text>
+    <rect x="255" y="240" width="120" height="40" rx="8" fill="#00a8d8"/><text x="315" y="265" fill="#ffffff">level 3 match</text>
+  </g>
+  <g stroke="#16567a" stroke-width="2" fill="none" marker-end="url(#a)">
+    <path d="M215,110 C235,110 235,140 251,140"/>
+    <path d="M215,110 C240,110 235,200 251,200"/>
+    <path d="M215,110 C245,110 235,260 251,260"/>
+    <path d="M215,290 C235,290 235,260 251,260"/>
+    <path d="M215,290 C240,290 235,200 251,200"/>
+    <path d="M215,290 C245,290 235,140 251,140"/>
+  </g>
+  <text x="315" y="100" text-anchor="middle" font-size="14" fill="#16567a" font-weight="600">query–key attention</text>
+
+  <!-- deformation field -->
+  <g stroke="#16567a" stroke-width="2" fill="none" marker-end="url(#a)">
+    <path d="M375,140 C400,140 400,200 421,200"/>
+    <path d="M375,200 L421,200"/>
+    <path d="M375,260 C400,260 400,200 421,200"/>
+  </g>
+  <g transform="translate(425,140)">
+    <rect width="150" height="120" rx="8" fill="#f2f8fb" stroke="#16567a" stroke-width="2.5"/>
+    <g stroke="#16567a" stroke-width="1.5" fill="none">
+      <path d="M15,20 C50,10 100,30 135,20"/><path d="M15,45 C50,38 100,58 135,45"/><path d="M15,70 C50,64 100,82 135,72"/><path d="M15,95 C50,90 100,104 135,98"/>
+      <path d="M25,10 C30,40 20,80 28,110"/><path d="M60,10 C68,40 55,80 64,110"/><path d="M95,10 C100,40 90,80 98,110"/><path d="M125,10 C128,40 122,80 126,110"/>
+    </g>
+  </g>
+  <text x="500" y="290" text-anchor="middle" font-size="15" font-weight="600" fill="#16567a">deformation field</text>
+</svg>
