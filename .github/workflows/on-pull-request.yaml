@@ -16,8 +16,13 @@ permissions:
   pull-requests: write
 
 jobs:
-  get-sources:
+  citation-changes:
     if: github.event.action != 'closed'
+    uses: ./.github/workflows/check-citation-changes.yaml
+
+  get-sources:
+    needs: citation-changes
+    if: needs.citation-changes.outputs.changed == 'true'
     uses: ./.github/workflows/get-sources.yaml
 
   update-citations:
@@ -27,7 +32,7 @@ jobs:
     secrets: inherit
 
   build-preview:
-    # still run when PR closed to trigger deploy-preview
+    # Also run when citations are unchanged, or PR closed for preview cleanup.
     if: ${{ !cancelled() && !failure() }}
     needs: update-citations
     uses: ./.github/workflows/build-preview.yaml

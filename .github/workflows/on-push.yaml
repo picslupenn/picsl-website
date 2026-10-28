@@ -16,12 +16,18 @@ permissions:
   pull-requests: write
 
 jobs:
+  citation-changes:
+    uses: ./.github/workflows/check-citation-changes.yaml
+
   update-citations:
+    needs: citation-changes
     # skip first run because nothing enabled or setup yet
-    if: github.run_number != 1
+    if: github.run_number != 1 && needs.citation-changes.outputs.changed == 'true'
     uses: ./.github/workflows/update-citations.yaml
     secrets: inherit
 
   build-site:
+    # Build even when the citation refresh was skipped.
+    if: ${{ !cancelled() && !failure() }}
     needs: update-citations
     uses: ./.github/workflows/build-site.yaml

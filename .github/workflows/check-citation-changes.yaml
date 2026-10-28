@@ -1,0 +1,62 @@
+name: check-citation-changes
+
+on:
+  workflow_call:
+    outputs:
+      changed:
+        description: Whether citation inputs or generation code changed
+        value: ${{ jobs.check.outputs.changed }}
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.changes.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Check citation inputs and generation code
+        id: changes
+        shell: bash
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: |
+          # Manual runs and new branches have no previous commit to compare.
+          if [[ -z "$BASE_SHA" || "$BASE_SHA" =~ ^0+$ ]]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # For PRs, consider only changes introduced by the PR branch.
+          if [[ "$GITHUB_EVENT_NAME" == "pull_request" ]]; then
+            BASE_SHA=$(git merge-base "$BASE_SHA" "$HEAD_SHA")
+          fi
+
+          # Match the input filenames read by _cite/cite.py. Generated
+          # _data/citations.yaml is deliberately excluded.
+          git diff --name-only "$BASE_SHA" "$HEAD_SHA" -- \
+            '_data/google-scholar*.yaml' '_data/google-scholar*.yml' '_data/google-scholar*.json' \
+            '_data/pubmed*.yaml' '_data/pubmed*.yml' '_data/pubmed*.json' \
+            '_data/orcid*.yaml' '_data/orcid*.yml' '_data/orcid*.json' \
+            '_data/sources*.yaml' '_data/sources*.yml' '_data/sources*.json' \
+            _cite/ \
+            .github/workflows/check-citation-changes.yaml \
+            .github/workflows/get-sources.yaml \
+            .github/workflows/update-citations.yaml \
+            .github/workflows/on-pull-request.yaml \
+            .github/workflows/on-push.yaml \
+            .github/workflows/on-schedule.yaml > "$RUNNER_TEMP/citation-changes.txt"
+
+          if [[ -s "$RUNNER_TEMP/citation-changes.txt" ]]; then
+            cat "$RUNNER_TEMP/citation-changes.txt"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi

@@ -117,7 +117,10 @@ version of the site.
   Claude can draw a simple diagram instead, or you can supply one of your own figures.
 - **Publications:** the Publications page is generated automatically from the ORCID
   records in `_data/orcid.yaml`. To fix or add papers, update your ORCID record; the site
-  picks up changes on the next build.
+  checks for updates weekly and opens a citation-update PR. PRs and pushes refresh
+  citations only when citation inputs, generator code, or citation workflows change.
+  To pull in ORCID changes immediately, run `update-citations` manually on `main` in
+  GitHub Actions, then run `build-site` on `main` after it finishes.
 - **Name variants in publications:** If your name in papers is different from your name on
   the site, or if you have name variants, you can use `aliases` to help the site find your
   papers (see Jim Gee's page for anexample). The search on the Publications page is

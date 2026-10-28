@@ -27,4 +27,5 @@ jobs:
           path: |
             _data/**/*.yaml
             _data/**/*.yml
+            _data/**/*.json
           retention-days: 1
