@@ -20,6 +20,9 @@ nav-links:
   - url: https://x.com/picslupenn
     icon: fa-brands fa-x-twitter
     tooltip: "@picslupenn on X"
+  - url: https://bsky.app/profile/picslupenn.bsky.social
+    icon: fa-brands fa-bluesky
+    tooltip: "@picslupenn.bsky.social on Bluesky"
 
 ### jekyll settings
 
