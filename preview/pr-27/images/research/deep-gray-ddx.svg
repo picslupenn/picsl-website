@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" font-family="Barlow, Helvetica, Arial, sans-serif"><rect width="600" height="400" fill="#ffffff"/><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16567a"/></marker></defs>
+<text x="300" y="45" font-size="19" fill="#16567a" font-weight="600" text-anchor="middle">Top-3 differential diagnosis accuracy, deep gray matter</text>
+<text x="190" y="98" font-size="15" fill="#16567a" font-weight="600" text-anchor="end">AI system</text>
+<rect x="200" y="75" width="340" height="34" rx="4" fill="#f2f8fb"/>
+<rect x="200" y="75" width="289" height="34" rx="4" fill="#00a8d8"/>
+<text x="481.0" y="98" font-size="15" fill="#ffffff" font-weight="600" text-anchor="end">85%</text>
+<text x="190" y="146" font-size="15" fill="#16567a" font-weight="400" text-anchor="end">Academic neuroradiologists</text>
+<rect x="200" y="123" width="340" height="34" rx="4" fill="#f2f8fb"/>
+<rect x="200" y="123" width="286" height="34" rx="4" fill="#16567a"/>
+<text x="477.6" y="146" font-size="15" fill="#ffffff" font-weight="600" text-anchor="end">84%</text>
+<text x="190" y="194" font-size="15" fill="#16567a" font-weight="400" text-anchor="end">Neuroradiology fellows</text>
+<rect x="200" y="171" width="340" height="34" rx="4" fill="#f2f8fb"/>
+<rect x="200" y="171" width="245" height="34" rx="4" fill="#16567a"/>
+<text x="436.8" y="194" font-size="15" fill="#ffffff" font-weight="600" text-anchor="end">72%</text>
+<text x="190" y="242" font-size="15" fill="#16567a" font-weight="400" text-anchor="end">Radiology residents</text>
+<rect x="200" y="219" width="340" height="34" rx="4" fill="#f2f8fb"/>
+<rect x="200" y="219" width="190" height="34" rx="4" fill="#16567a"/>
+<text x="382.4" y="242" font-size="15" fill="#ffffff" font-weight="600" text-anchor="end">56%</text>
+<text x="190" y="290" font-size="15" fill="#16567a" font-weight="400" text-anchor="end">General radiologists</text>
+<rect x="200" y="267" width="340" height="34" rx="4" fill="#f2f8fb"/>
+<rect x="200" y="267" width="180" height="34" rx="4" fill="#16567a"/>
+<text x="372.2" y="290" font-size="15" fill="#ffffff" font-weight="600" text-anchor="end">53%</text>
+<text x="300" y="375" font-size="14" fill="#16567a" font-weight="400" text-anchor="middle">35 neurologic diseases, 102 test patients</text>
+</svg>

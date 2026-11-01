@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" font-family="Barlow, Helvetica, Arial, sans-serif">
+  <rect width="600" height="400" fill="#ffffff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16567a"/></marker>
+    <linearGradient id="strain" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#00a8d8"/><stop offset="0.5" stop-color="#f5c542"/><stop offset="1" stop-color="#d9534f"/></linearGradient>
+  </defs>
+
+  <!-- 4D echo -->
+  <g text-anchor="middle" font-weight="600" fill="#16567a">
+    <path d="M30,250 L95,110 L160,250 Q95,280 30,250 z" fill="#1b2a33" stroke="#16567a" stroke-width="2.5"/>
+    <ellipse cx="95" cy="205" rx="22" ry="28" fill="none" stroke="#8fd3ec" stroke-width="4"/>
+    <text x="95" y="300" font-size="16">4D echo</text>
+  </g>
+  <line x1="168" y1="195" x2="203" y2="195" stroke="#16567a" stroke-width="2.5" marker-end="url(#a)"/>
+
+  <!-- medial model of aortic root -->
+  <g>
+    <path d="M225,110 C215,150 215,240 225,280 L305,280 C315,240 315,150 305,110 z" fill="#e8f4f9" stroke="#16567a" stroke-width="2.5"/>
+    <path d="M265,110 L265,280" stroke="#00a8d8" stroke-width="3" stroke-dasharray="6 5"/>
+    <g stroke="#16567a" stroke-width="1.2" fill="none">
+      <path d="M220,140 C245,148 285,148 310,140"/><path d="M218,170 C245,178 285,178 312,170"/><path d="M217,200 C245,208 285,208 313,200"/><path d="M218,230 C245,238 285,238 312,230"/><path d="M220,260 C245,268 285,268 310,260"/>
+    </g>
+    <text x="265" y="300" text-anchor="middle" font-size="16" font-weight="600" fill="#16567a">medial model</text>
+    <text x="265" y="318" text-anchor="middle" font-size="13" fill="#16567a">+ deformable registration</text>
+  </g>
+  <line x1="325" y1="195" x2="360" y2="195" stroke="#16567a" stroke-width="2.5" marker-end="url(#a)"/>
+
+  <!-- strain maps: TAV vs BAV -->
+  <g text-anchor="middle" font-weight="600" fill="#16567a">
+    <path d="M380,120 C372,155 372,235 380,270 L440,270 C448,235 448,155 440,120 z" fill="url(#strain)" opacity="0.35" stroke="#16567a" stroke-width="2.5"/>
+    <text x="410" y="300" font-size="16">TAV</text>
+    <path d="M480,120 C472,155 472,235 480,270 L540,270 C548,235 548,155 540,120 z" fill="url(#strain)" stroke="#16567a" stroke-width="2.5"/>
+    <text x="510" y="300" font-size="16">BAV</text>
+    <text x="460" y="95" font-size="16">regional shear strain</text>
+  </g>
+  <text x="460" y="340" text-anchor="middle" font-size="14" fill="#16567a">larger shear strain in bicuspid valves</text>
+</svg>
