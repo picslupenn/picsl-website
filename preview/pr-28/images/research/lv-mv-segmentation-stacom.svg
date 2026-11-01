@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" font-family="Barlow, Helvetica, Arial, sans-serif"><rect width="600" height="400" fill="#ffffff"/><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16567a"/></marker></defs>
+<text x="300" y="50" font-size="20" fill="#16567a" font-weight="600" text-anchor="middle">Segmenting the left ventricular mitral valve complex</text>
+<rect x="20" y="95" width="172" height="210" rx="12" fill="#16567a"/>
+<circle cx="106" cy="127" r="17" fill="#ffffff"/>
+<text x="106.0" y="133" font-size="17" fill="#16567a" font-weight="600" text-anchor="middle">1</text>
+<text x="106.0" y="177" font-size="16" fill="#ffffff" font-weight="600" text-anchor="middle">3D TEE</text>
+<text x="106.0" y="207" font-size="13" fill="#ffffff" font-weight="400" text-anchor="middle">pre-operative,</text>
+<text x="106.0" y="224" font-size="13" fill="#ffffff" font-weight="400" text-anchor="middle">mid-systole</text>
+<line x1="194" y1="200.0" x2="212" y2="200.0" stroke="#16567a" stroke-width="3" marker-end="url(#a)"/>
+<rect x="214" y="95" width="172" height="210" rx="12" fill="#16567a"/>
+<circle cx="300" cy="127" r="17" fill="#ffffff"/>
+<text x="300.0" y="133" font-size="17" fill="#16567a" font-weight="600" text-anchor="middle">2</text>
+<text x="300.0" y="177" font-size="16" fill="#ffffff" font-weight="600" text-anchor="middle">Multi-atlas</text>
+<text x="300.0" y="197" font-size="16" fill="#ffffff" font-weight="600" text-anchor="middle">label fusion</text>
+<text x="300.0" y="227" font-size="13" fill="#ffffff" font-weight="400" text-anchor="middle">expert-labeled</text>
+<text x="300.0" y="244" font-size="13" fill="#ffffff" font-weight="400" text-anchor="middle">atlases</text>
+<line x1="388" y1="200.0" x2="406" y2="200.0" stroke="#16567a" stroke-width="3" marker-end="url(#a)"/>
+<rect x="408" y="95" width="172" height="210" rx="12" fill="#00a8d8"/>
+<circle cx="494" cy="127" r="17" fill="#ffffff"/>
+<text x="494.0" y="133" font-size="17" fill="#00a8d8" font-weight="600" text-anchor="middle">3</text>
+<text x="494.0" y="177" font-size="16" fill="#ffffff" font-weight="600" text-anchor="middle">LV + MV</text>
+<text x="494.0" y="197" font-size="16" fill="#ffffff" font-weight="600" text-anchor="middle">segmentation</text>
+<text x="494.0" y="227" font-size="13" fill="#ffffff" font-weight="400" text-anchor="middle">ventricle and</text>
+<text x="494.0" y="244" font-size="13" fill="#ffffff" font-weight="400" text-anchor="middle">valve together</text>
+<text x="300" y="355" font-size="15" fill="#16567a" font-weight="400" text-anchor="middle">Average Dice 0.78 in ischemic mitral regurgitation</text>
+</svg>
