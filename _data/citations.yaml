@@ -353,179 +353,291 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032049469
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part III'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017846685&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437352
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032049803
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part VII'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017858347&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437353
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032053244
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th international conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part XVI'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105018086987&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437354
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032049261
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part I'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017862101&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437355
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032051400
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part XI'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105018051579&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437356
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032051615
-  title: 'Medical image computing and computer assistedintervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part XII'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017974068&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437357
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032049704
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part V'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017852348&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437358
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032051813
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part XV'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017969827&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437359
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032049360
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part II'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017845134&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437360
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032051134
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part IX'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017967046&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437361
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032051684
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part XIII'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105018084887&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437362
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032049773
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part VI'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017855167&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437363
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032049834
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part VIII'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017969378&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437364
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032051264
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part X'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105018091976&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437365
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032051844
-  title: 'Medical Image Computing and Computer Assisted Intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23 - 27, 2025:
-    proceedings, part XIV'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105018041000&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437366
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783032049643
-  title: 'Medical image computing and computer assisted intervention - MICCAI 2025:
-    28th International Conference, Daejeon, South Korea, September 23-27, 2025: proceedings,
-    part IV'
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105017856649&partnerID=MN8TOARS
   date: '2026-01-01'
-  link: ''
+  authors:
+  - Gee, J.C.
+  - Alexander, D.
+  - Hong, J.
+  - Iglesias, J.E.
+  - Sudre, C.
+  - Venkataraman, A.
+  - Park, J.
+  - Golland, P.
+  - Kim, J.
+  id: orcid:0000-0002-2258-0187/work/231437367
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -545,12 +657,16 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:26403498
-  title: Making sure you're not a bot!
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/26403498
+- title: 'The LUMirage: An independent evaluation of zero-shot performance in the
+    LUMIR challenge'
+  publisher: Proceedings of Machine Learning Research
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105040239514&partnerID=MN8TOARS
+  date: '2026-01-01'
+  authors:
+  - Jena, R.
+  - Chaudhari, P.
+  - Gee, J.
+  id: orcid:0000-0002-2258-0187/work/231438557
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -1414,12 +1530,21 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:10495258
-  title: Making sure you're not a bot!
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/10495258
+- title: 'A Textbook Remedy for Domain Shifts: Knowledge Priors for Medical Image
+    Analysis'
+  publisher: Advances in Neural Information Processing Systems
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105000511987&partnerID=MN8TOARS
+  date: '2024-01-01'
+  authors:
+  - Yang, Y.
+  - Gandhi, M.
+  - Wang, Y.
+  - Wu, Y.
+  - Yao, M.S.
+  - Callison-Burch, C.
+  - Gee, J.C.
+  - Yatskar, M.
+  id: orcid:0000-0002-2258-0187/work/231438558
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -2172,6 +2297,19 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
+- title: 'Deep Learning in Medical Image Registration: Magic or Mirage?'
+  publisher: Advances in Neural Information Processing Systems
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105000499830&partnerID=MN8TOARS
+  date: '2024-01-01'
+  authors:
+  - Jena, R.
+  - Sethi, D.
+  - Chaudhari, P.
+  - Gee, J.C.
+  id: orcid:0000-0002-2258-0187/work/231438560
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/arxiv.2408.05839
   title: 'Deep Learning in Medical Image Registration: Magic or Mirage?'
   authors:
@@ -2301,6 +2439,21 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/hcp5jc
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Generative Adversarial Model-Based Optimization via Source Critic Regularization
+  publisher: Advances in Neural Information Processing Systems
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-105000552276&partnerID=MN8TOARS
+  date: '2024-01-01'
+  authors:
+  - Yao, M.S.
+  - Zeng, Y.
+  - Bastani, H.
+  - Gardner, J.
+  - Gee, J.C.
+  - Bastani, O.
+  id: orcid:0000-0002-2258-0187/work/231438559
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -3183,6 +3336,29 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
+- title: Novel data-driven subtypes and stages of brain atrophy in the ALS-FTD spectrum
+  publisher: Research Square
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-85171187672&partnerID=MN8TOARS
+  date: '2023-01-01'
+  authors:
+  - Shen, T.
+  - Vogel, J.W.
+  - Duda, J.
+  - Phillips, J.S.
+  - Cook, P.A.
+  - Gee, J.
+  - Elman, L.
+  - Quinn, C.
+  - Amado, D.A.
+  - Baer, M.
+  - Massimo, L.
+  - Grossman, M.
+  - Irwin, D.J.
+  - McMillan, C.T.
+  id: doi:10.21203/rs.3.rs-3183113
+  orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s40035-023-00389-3
   title: "Novel data-driven subtypes and stages of brain atrophy in the ALS\u2013\
     FTD spectrum"
@@ -3207,12 +3383,15 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:23318422
-  title: Making sure you're not a bot!
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/23318422
+- title: Retinotopy Inspired Brain Encoding Model and the All-for-One Training Recipe
+  publisher: Arxiv
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-85168268624&partnerID=MN8TOARS
+  date: '2023-01-01'
+  authors:
+  - Yang, H.
+  - Shi, J.
+  - Gee, J.
+  id: orcid:0000-0002-2258-0187/work/231438561
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -3559,6 +3738,27 @@
   date: '2021-09-13'
   link: https://doi.org/gn3mrv
   orcid: 0000-0002-1985-8475
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'SynthA1c: Towards Clinically Interpretable Patient Representations for Diabetes
+    Risk Stratification'
+  publisher: Arxiv
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-85167695558&partnerID=MN8TOARS
+  date: '2022-01-01'
+  authors:
+  - Yao, M.S.
+  - Chae, A.
+  - MacLean, M.T.
+  - Verma, A.
+  - Duda, J.
+  - Gee, J.C.
+  - Torigian, D.A.
+  - Rader, D.
+  - Kahn, C.E.
+  - Witschey, W.R.
+  - Sagreiya, H.
+  id: orcid:0000-0002-2258-0187/work/231438562
+  orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.10.26.513573
@@ -5453,13 +5653,16 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:9783030203504
-  title: "Information processing in medical imaging: 26th International Conference,\
-    \ IPMI 2019, Hong Kong, China, June 2\u20137, 2019 :proceedings"
-  authors: []
-  publisher: Springer
+- title: Preface
+  publisher: Lecture Notes in Computer Science Including Subseries Lecture Notes in
+    Artificial Intelligence and Lecture Notes in Bioinformatics
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-85066145953&partnerID=MN8TOARS
   date: '2019-01-01'
-  link: ''
+  authors:
+  - Chung, A.C.S.
+  - Yushkevich, P.A.
+  - Gee, J.C.
+  id: orcid:0000-0002-2258-0187/work/231438563
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -5990,12 +6193,12 @@
   title: Constraint Split Bregman method combined with total variation for structural
     decomposition of breast DCE-MRI
   authors:
-  - ' Shujuan Li'
-  - ' Hui Liu'
-  - ' Dongmei Guo'
-  - ' Yuanjie Zheng'
+  - Shujuan Li
+  - Hui Liu
+  - Dongmei Guo
+  - Yuanjie Zheng
   - James C. Gee
-  - ' Zuowei Zhao'
+  - Zuowei Zhao
   publisher: 2015 4th International Conference on Computer Science and Network Technology
     (ICCSNT)
   date: '2015-12-01'
@@ -6073,6 +6276,21 @@
   publisher: Journal of Orthopaedic Research
   date: '2016-01-08'
   link: https://doi.org/f8v83j
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Pulmonary kinematics via registration of serial lung images
+  publisher: Lung Imaging and Computer Aided Diagnosis
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-85015289610&partnerID=MN8TOARS
+  date: '2016-01-01'
+  authors:
+  - Cook, T.
+  - Song, G.
+  - Tustison, N.J.
+  - Torigian, D.
+  - Gefter, W.B.
+  - Gee, J.
+  id: orcid:0000-0002-2258-0187/work/231438564
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -6327,12 +6545,18 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:0948695X 09486968
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0948695X 09486968
+- title: Searchable public-key encryption with data sharing in dynamic groups for
+    mobile cloud storage
+  publisher: Journal of Universal Computer Science
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-84928168263&partnerID=MN8TOARS
+  date: '2015-01-01'
+  authors:
+  - Xia, Q.
+  - Ni, J.
+  - Bosco, A.J.
+  - Kanpogninge, A.
+  - Gee, J.C.
+  id: orcid:0000-0002-2258-0187/work/231438565
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -7241,7 +7465,7 @@
   - C C Brun
   - "Natasha Lepor\xE9"
   - X Pennec
-  - ' Yi-Yu Chou'
+  - Yi-Yu Chou
   - A D Lee
   - G de Zubicaray
   - K L McMahon
@@ -7460,7 +7684,7 @@
   authors:
   - Nicholas J Tustison
   - Suyash P Awate
-  - ' Gang Song'
+  - Gang Song
   - Tessa S Cook
   - James C Gee
   publisher: IEEE Transactions on Medical Imaging
@@ -7786,7 +8010,7 @@
   - Nicholas J Tustison
   - Brian B Avants
   - Philip A Cook
-  - ' Yuanjie Zheng'
+  - Yuanjie Zheng
   - Alexander Egan
   - Paul A Yushkevich
   - James C Gee
@@ -7950,9 +8174,9 @@
   title: A framework for craniofacial surgery simulation based on pre-specified target
     face configurations
   authors:
-  - ' Shengzheng Wang'
+  - Shengzheng Wang
   - James C. Gee
-  - ' Jie Yang'
+  - Jie Yang
   publisher: '2009 IEEE International Symposium on Biomedical Imaging: From Nano to
     Macro'
   date: '2009-06-01'
@@ -8172,13 +8396,13 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1017/cbo9780511994685.014
-  title: Registration and atlas building
-  authors:
-  - James C. Gee
+- title: Registration and atlas building
   publisher: Introduction to the Science of Medical Imaging
-  date: '2001-01-01'
-  link: https://doi.org/d2x63c
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-84926976917&partnerID=MN8TOARS
+  date: '2009-01-01'
+  authors:
+  - Gee, J.C.
+  id: orcid:0000-0002-2258-0187/work/231438566
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -8254,7 +8478,7 @@
   title: Atlas-guided probabilistic diffusion-tensor fiber tractography
   authors:
   - Philip A. Cook
-  - ' Hui Zhang'
+  - Hui Zhang
   - Suyash P. Awate
   - James C. Gee
   publisher: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano
@@ -8283,7 +8507,7 @@
 - id: doi:10.1109/isbi.2008.4541289
   title: Branching medial models for cardiac shape representation
   authors:
-  - ' Hui Sun'
+  - Hui Sun
   - Brian B. Avants
   - Alejandro F. Frangi
   - Sebastian Ordas
@@ -8304,7 +8528,7 @@
   - John Pluta
   - David Minkoff
   - Stephen Pickup
-  - ' Weixia Liu'
+  - Weixia Liu
   - John A. Detre
   - Murray Grossman
   - James C. Gee
@@ -8396,8 +8620,8 @@
   authors:
   - Jeffrey Duda
   - Brian Avants
-  - ' Junghoon Kim'
-  - ' Hui Zhang'
+  - Junghoon Kim
+  - Hui Zhang
   - Sunil Patel
   - John Whyte
   - James Gee
@@ -8412,7 +8636,7 @@
   title: Multivariate segmentation of brain tissues by fusion of MRI and DTI data
   authors:
   - Suyash P. Awate
-  - ' Hui Zhang'
+  - Hui Zhang
   - Tony J. Simon
   - James C. Gee
   publisher: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano
@@ -8425,7 +8649,7 @@
 - id: doi:10.1109/isbi.2008.4540935
   title: Nonparametric Markov priors for tissue segmentation
   authors:
-  - ' Zhuang Song'
+  - Zhuang Song
   - Suyash P. Awate
   - James C. Gee
   publisher: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano
@@ -8458,7 +8682,7 @@
   title: Robust regularization for the estimation of intra-voxel axon fiber orientations
   authors:
   - Alonso Ramirez-Manzanares
-  - ' Hui Zhang'
+  - Hui Zhang
   - Mariano Rivera
   - James C. Gee
   publisher: 2008 IEEE Computer Society Conference on Computer Vision and Pattern
@@ -8553,7 +8777,7 @@
 - id: doi:10.1109/isbi.2008.4541094
   title: Surface-based modeling of white matter fasciculi with orientation encoding
   authors:
-  - ' Hui Zhang'
+  - Hui Zhang
   - Paul A. Yushkevich
   - Tony J Simon
   - James C. Gee
@@ -8608,7 +8832,7 @@
     With Applications to DTI-Tract Extraction'
   authors:
   - S.P. Awate
-  - ' Zhang Hui'
+  - Zhang Hui
   - J.C. Gee
   publisher: IEEE Transactions on Medical Imaging
   date: '2007-11-01'
@@ -8763,11 +8987,11 @@
     the Detection of White Matter Differences: An Example Study Using Amyotrophic
     Lateral Sclerosis'
   authors:
-  - ' Hui Zhang'
+  - Hui Zhang
   - B.B. Avants
   - P.A. Yushkevich
   - J.H. Woo
-  - ' Sumei Wang'
+  - Sumei Wang
   - L.F. McCluskey
   - L.B. Elman
   - E.R. Melhem
@@ -8903,11 +9127,11 @@
   authors:
   - L. Ng
   - S.D. Pathak
-  - ' Chihchau Kuan'
+  - Chihchau Kuan
   - C. Lau
-  - ' Hongwei Dong'
+  - Hongwei Dong
   - A. Sodt
-  - ' Chinh Dang'
+  - Chinh Dang
   - B. Avants
   - P. Yushkevich
   - J.C. Gee
@@ -9086,7 +9310,7 @@
 - id: doi:10.1109/isbi.2006.1625028
   title: Adaptive Graph Cuts with Tissue Priors for Brain MRI Segmentation
   authors:
-  - ' Zhuang Song'
+  - Zhuang Song
   - N. Tustison
   - B. Avants
   - J. Gee
@@ -9181,9 +9405,9 @@
   title: Efficient Generation of Shape-Based Reference Frames for the Corpus Callosum
     for DTI-based Connectivity Analysis
   authors:
-  - ' Hui Sun'
+  - Hui Sun
   - P.A. Yushkevich
-  - ' Hui Zhang'
+  - Hui Zhang
   - J.C. Gee
   - T.J. Simon
   publisher: 2006 Conference on Computer Vision and Pattern Recognition Workshop (CVPRW'06)
@@ -9464,12 +9688,16 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:10637125
-  title: Making sure you're not a bot!
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/10637125
+- title: 'Reducing the computational cost for statistical medical image analysis:
+    An MRI study on the sexual morphological differentiation of the corpus callosum'
+  publisher: Proceedings IEEE Symposium on Computer Based Medical Systems
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-27544492669&partnerID=MN8TOARS
+  date: '2005-01-01'
+  authors:
+  - Kontos, D.
+  - Megalooikonomou, V.
+  - Gee, J.
+  id: orcid:0000-0002-2258-0187/work/231438567
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -9662,12 +9890,16 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:10636919
-  title: Making sure you're not a bot!
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/10636919
+- title: Registration of diffusion tensor images
+  publisher: Proceedings of the IEEE Computer Society Conference on Computer Vision
+    and Pattern Recognition
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-5044224015&partnerID=MN8TOARS
+  date: '2004-01-01'
+  authors:
+  - Zhang, H.
+  - Yushkevich, P.A.
+  - Gee, J.C.
+  id: orcid:0000-0002-2258-0187/work/231438568
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -9937,6 +10169,19 @@
   publisher: Computer Vision and Image Understanding
   date: '2003-10-01'
   link: https://doi.org/cjvs6k
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Preface
+  publisher: Lecture Notes in Computer Science Including Subseries Lecture Notes in
+    Artificial Intelligence and Lecture Notes in Bioinformatics
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-84949818457&partnerID=MN8TOARS
+  date: '2003-01-01'
+  authors:
+  - Gee, J.C.
+  - Maintz, J.B.A.
+  - Vannier, M.W.
+  id: orcid:0000-0002-2258-0187/work/231438569
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -10307,12 +10552,14 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:10179909 1560229X
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/10179909 1560229X
+- title: Model-based medical image processing and analysis
+  publisher: Journal of Electronic Imaging
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0035387641&partnerID=MN8TOARS
+  date: '2001-01-01'
+  authors:
+  - Gee, J.C.
+  - Analoui, M.
+  id: orcid:0000-0002-2258-0187/work/231438570
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -10421,20 +10668,38 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:0277786X
-  title: Making sure you're not a bot!
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0277786X
+- title: Exploratory and confirmatory factor analysis in morphometry
+  publisher: Proceedings of SPIE the International Society for Optical Engineering
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0033714488&partnerID=MN8TOARS
+  date: '2000-01-01'
+  authors:
+  - Machado, Alexei M.C.
+  - Gee, James C.
+  - Campos, Mario F.M.
+  id: orcid:0000-0002-2258-0187/work/231438572
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
 - title: Factor analytic approach to structural characterization
   publisher: Proceedings of the Workshop on Mathematical Methods in Biomedical Image
     Analysis
-  date: '2026-10-27'
   link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0033721292&partnerID=MN8TOARS
+  date: '2000-01-01'
+  authors:
+  - Machado, Alexei M.C.
+  - Gee, James C.
+  - Campos, Mario F.M.
+  id: orcid:0000-0002-2258-0187/work/231438571
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Performance evaluation of medical image processing algorithms
+  publisher: Proceedings of SPIE the International Society for Optical Engineering
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0033701129&partnerID=MN8TOARS
+  date: '2000-01-01'
+  authors:
+  - Gee, James C.
+  id: orcid:0000-0002-2258-0187/work/231438574
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -10451,12 +10716,45 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:10538119
-  title: Making sure you're not a bot!
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/10538119
+- title: Techniques for spatial normalization of diffusion tensor images
+  publisher: Proceedings of SPIE the International Society for Optical Engineering
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0033726141&partnerID=MN8TOARS
+  date: '2000-01-01'
+  authors:
+  - Alexander, D.C.
+  - Pierpaoli, C.
+  - Basser, P.J.
+  - Gee, J.C.
+  id: orcid:0000-0002-2258-0187/work/231438573
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Characterizing cerebral symmetry with transformations that spatially align
+    the hemispheres
+  publisher: Neuroimage
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-21544480306&partnerID=MN8TOARS
+  date: '1999-01-01'
+  authors:
+  - Gee, J.
+  - Alsop, D.
+  - Grossman, M.
+  - Turetsky, B.
+  - Gur, R.
+  - Gur, R.
+  id: orcid:0000-0002-2258-0187/work/231438576
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Elastic matching of diffusion tensor MRIs
+  publisher: Proceedings of the IEEE Computer Society Conference on Computer Vision
+    and Pattern Recognition
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0032657846&partnerID=MN8TOARS
+  date: '1999-01-01'
+  authors:
+  - Alexander, Daniel
+  - Gee, James
+  - Bajcsy, Ruzena
+  id: orcid:0000-0002-2258-0187/work/231438577
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -10472,6 +10770,18 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
+- title: Likelihood estimation in image warping
+  publisher: Proceedings of SPIE the International Society for Optical Engineering
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0032593786&partnerID=MN8TOARS
+  date: '1999-01-01'
+  authors:
+  - Machado, Alexei M.C.
+  - Campos, Mario F.M.
+  - Gee, James C.
+  id: orcid:0000-0002-2258-0187/work/231438578
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/3-540-48714-x_52
   title: Method for Estimating the Intensity Mapping between MRI Images
   authors:
@@ -10481,6 +10791,33 @@
   publisher: Lecture Notes in Computer Science
   date: '1999-01-01'
   link: https://doi.org/bw5pwr
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- title: New experimental results in atlas-based brain morphometry
+  publisher: Proceedings of SPIE the International Society for Optical Engineering
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0032593782&partnerID=MN8TOARS
+  date: '1999-01-01'
+  authors:
+  - Gee, J.C.
+  - Fabella, B.A.
+  - Fernandes, S.E.
+  - Turetsky, B.I.
+  - Gur, R.C.
+  - Gur, R.E.
+  id: orcid:0000-0002-2258-0187/work/231438579
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- title: On elastic matching of diffusion tensor MRIs
+  publisher: Neuroimage
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-21544439328&partnerID=MN8TOARS
+  date: '1999-01-01'
+  authors:
+  - Alexander, D.
+  - Bajcsy, R.
+  - Gee, J.
+  id: orcid:0000-0002-2258-0187/work/231438575
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -10658,22 +10995,47 @@
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: isbn:0819408042
-  title: 'Medical imaging VI: 24-27 February 1992, Newport Beach, California. Image
-    processing'
-  authors: []
-  publisher: SPIE
+- title: 'Quantitative analysis of cerebral images using an elastically deformable
+    atlas: theory and validation'
+  publisher: Proceedings of SPIE the International Society for Optical Engineering
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0026491468&partnerID=MN8TOARS
   date: '1992-01-01'
-  link: ''
+  authors:
+  - Gee, Jim C.
+  - Reivich, Martin M.D.
+  - Bajcsy, Ruzena R.
+  id: orcid:0000-0002-2258-0187/work/231438580
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:05891019
-  title: Making sure you're not a bot!
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/05891019
+- title: Evaluation of multiresolution elastic matching using MRI data
+  publisher: Proceedings of SPIE the International Society for Optical Engineering
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0025721437&partnerID=MN8TOARS
+  date: '1991-01-01'
+  authors:
+  - Gee, J.C.
+  - Reivich, M.
+  - Bilaniuk, L.
+  - Hackney, D.
+  - Zimmerman, R.
+  - Kovacic, S.
+  - Bajcsy, R.
+  id: orcid:0000-0002-2258-0187/work/231438581
+  orcid: 0000-0002-2258-0187
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Three-dimensional registration of PET and CT images
+  publisher: Annual International Conference of the IEEE Engineering in Medicine and
+    Biology Proceedings
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-0344931673&partnerID=MN8TOARS
+  date: '1989-01-01'
+  authors:
+  - Kovacic, Stane
+  - Gee, Jim C.
+  - Ching, Wallace S.L.
+  - Reivich, Martin
+  - Bajcsy, Ruzena
+  id: orcid:0000-0002-2258-0187/work/231438582
   orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
@@ -11718,12 +12080,10 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:001799506500017
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001799506500017
+- title: Downstream Neuroprotection Associated with Amyloid Targeting Therapy
+  publisher: JOURNAL OF NEUROPATHOLOGY AND EXPERIMENTAL NEUROLOGY
+  date: '2026-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934896
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -11956,12 +12316,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:175385927
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:175385927
+- title: 'ICHOR: A Robust Representation Learning Approach for ASL CBF Maps with Self-Supervised
+    Masked Autoencoders'
+  publisher: Arxiv
+  date: '2026-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934900
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -12060,6 +12419,14 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2026-05-01'
   link: https://doi.org/hcpjnd
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'VIOLET: Volumetric Image registration via Optimization and Learning for
+    Efficient image Translation'
+  publisher: SIMULATION AND SYNTHESIS IN MEDICAL IMAGING, SASHIMI 2025
+  date: '2026-01-01'
+  id: doi:10.1007/978-3-032-05573-6-9
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -12533,12 +12900,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:001535085400325
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001535085400325
+- title: 'Longitudinal Analysis of MS Lesion Progression Using 7T MP2RAGE MRI: A Deformation-Based
+    Study of CEL, Chronic Non-PRL, and PRL Lesions'
+  publisher: MULTIPLE SCLEROSIS JOURNAL
+  date: '2025-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934927
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -12629,12 +12995,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:123120906
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:123120906
+- title: Nearly isotropic segmentation for medial temporal lobe subregions in multi-modality
+    MRI
+  publisher: Arxiv
+  date: '2025-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934928
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -13087,12 +13452,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:001365072300169
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001365072300169
+- title: Effects of Amyloid Pathology and Vascular Risk Factors on Regional Cerebral
+    Blood Flow Patterns
+  publisher: ANNALS OF NEUROLOGY
+  date: '2024-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934951
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -13155,12 +13519,10 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:001365072300185
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001365072300185
+- title: MRI Correlates of Preclinical Cerebral Small Vessel Disease
+  publisher: ANNALS OF NEUROLOGY
+  date: '2024-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934950
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -13340,12 +13702,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:88334170
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:88334170
+- title: Surface-based parcellation and vertex-wise analysis of ultra high-resolution<italic>
+    ex vivo</italic> 7 tesla MRI in Alzheimer's disease and related dementias
+  publisher: Arxiv
+  date: '2024-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934953
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -13489,12 +13850,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:001084474200119
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001084474200119
+- title: Association of Cerebral Blood Flow with Microstructural Injury in Periventricular
+    and Whole Brain White Matter
+  publisher: ANNALS OF NEUROLOGY
+  date: '2023-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934969
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -13553,12 +13913,12 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:46977598
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:46977598
+- title: Automated deep learning segmentation of high-resolution 7 T postmortem MRI
+    for quantitative analysis of structure-pathology correlations in neurodegenerative
+    diseases
+  publisher: Arxiv
+  date: '2023-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934966
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -13618,12 +13978,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:42556834
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:42556834
+- title: Improved Segmentation of Deep Sulci in Cortical Gray Matter Using a Deep
+    Learning Framework Incorporating Laplace&#39;s Equation
+  publisher: Arxiv
+  date: '2023-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934982
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -13706,12 +14065,12 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:57446006
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:57446006
+- title: 'Regional Deep Atrophy: a Self-Supervised Learning Method to Automatically
+    Identify Regions Associated With Alzheimer''s Disease Progression From Longitudinal
+    MRI'
+  publisher: Arxiv
+  date: '2023-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934980
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -13742,21 +14101,19 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:001084474200096
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001084474200096
+- title: Structural Analysis of the Basal Ganglia Using Ex Vivo 7T MRI Can Differentiate
+    Frontotemporal Lobar Degeneration with TDP-43 vs Tau Accumulation
+  publisher: ANNALS OF NEUROLOGY
+  date: '2023-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934970
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:001084474200308
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001084474200308
+- title: T1 MRI Reveals Differential Hippocampal Atrophy in Lewy Body Disorders with
+    and without Alzheimer's Copathology
+  publisher: ANNALS OF NEUROLOGY
+  date: '2023-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934968
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -14943,12 +15300,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:161384478
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:161384478
+- title: 'DeepAtrophy: Teaching a Neural Network to Differentiate Progressive Changes
+    from Noise on Longitudinal MRI in Alzheimer''s Disease'
+  publisher: Arxiv
+  date: '2020-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934812
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -15128,12 +15484,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000536058008025
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000536058008025
+- title: Tau Status Portends Different Baseline and Longitudinal Cognitive Performance
+    in Amyloid- and Neurodegeneration-positive Mild Cognitive Impairment (MCI)
+  publisher: NEUROLOGY
+  date: '2020-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934823
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -15171,21 +15526,19 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000475965904424
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000475965904424
+- title: 18F-AV-1451 Tau Tracer Uptake Correlates with Medial Temporal Lobe Subregional
+    Atrophy in Amyloid Negative Individuals
+  publisher: NEUROLOGY
+  date: '2019-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934844
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:22604866
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:22604866
+- title: Accurate and Robust Alignment of Variable-stained Histologic Images Using
+    a General-purpose Greedy Diffeomorphic Registration Tool
+  publisher: Arxiv
+  date: '2019-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934841
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -15246,21 +15599,18 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:22458428
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:22458428
+- title: Barnes-Hut Approximation for Point SetGeodesic Shooting
+  publisher: Arxiv
+  date: '2019-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934836
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000475965901147
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000475965901147
+- title: Cognitive Profiles in Amyloid-Positive Mild Cognitive Impairment and Alzheimer's
+    Disease with and without Tau
+  publisher: NEUROLOGY
+  date: '2019-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934845
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -15280,12 +15630,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000475965906269
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000475965906269
+- title: Distribution of Hippocampal Tau Pathology in Amnestic and Non-Amnestic Forms
+    of Alzheimer's Disease
+  publisher: NEUROLOGY
+  date: '2019-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934842
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -15308,12 +15657,10 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000475965900025
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000475965900025
+- title: Hippocampal tau pathology burden in Lewy body disorders
+  publisher: NEUROLOGY
+  date: '2019-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934846
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -15385,12 +15732,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000475965905334
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000475965905334
+- title: Medial temporal lobe subfield volumes are spared in non-amnestic Alzheimer's
+    disease
+  publisher: NEUROLOGY
+  date: '2019-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934843
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -15694,13 +16040,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000528619401268
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000528619401268
-  orcid: 0000-0001-8854-5301
+- title: 'Extracting Clinical Pearls From Heart Sound Waves: A Deep Learning Approach'
+  publisher: CIRCULATION
+  date: '2018-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934853
+  orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-319-75238-9_4
@@ -15764,12 +16108,10 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000429034600159
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000429034600159
+- title: Novel Techniques for MS Lesion Segmentation Algorithm Evaluation
+  publisher: MULTIPLE SCLEROSIS JOURNAL
+  date: '2018-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934857
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -16104,12 +16446,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000413730201128
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000413730201128
+- title: Statistical separation of spatially confluent but temporally distinct white
+    matter lesions
+  publisher: MULTIPLE SCLEROSIS JOURNAL
+  date: '2017-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934875
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -16405,12 +16746,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3978/j.issn.2225-319x.2015.02.01
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/hcpjqr
+- title: 4D-transesophageal echocardiography and emerging imaging modalities for guiding
+    mitral valve repair
+  publisher: ANNALS OF CARDIOTHORACIC SURGERY
+  date: '2015-01-01'
+  id: doi:10.3978/j.issn.2225-319x.2015.02.01
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -16698,8 +17038,20 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84909595977&partnerID=MN8TOARS
+  date: '2014-01-01'
+  authors:
+  - Xie, L.
+  - Pluta, J.
+  - Wang, H.
+  - Das, S.R.
+  - Mancuso, L.
+  - Kliot, D.
+  - Avants, B.B.
+  - Ding, S.L.
+  - Wolk, D.A.
+  - Yushkevich, P.A.
+  id: orcid:0000-0001-8543-4016/work/37978281
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -16787,8 +17139,18 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84894640092&partnerID=MN8TOARS
+  date: '2013-01-01'
+  authors:
+  - Pouch, A.M.
+  - Wang, H.
+  - Takabe, M.
+  - Jackson, B.M.
+  - Sehgal, C.M.
+  - Gorman 3rd., J.H.
+  - Gorman, R.C.
+  - Yushkevich, P.A.
+  id: orcid:0000-0001-8543-4016/work/37978256
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -16807,8 +17169,12 @@
 - title: Deformable modeling using a 3D boundary representation with quadratic constraints
     on the branching structure of the Blum skeleton.
   publisher: 'Information processing in medical imaging : proceedings of the ... conference'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84901258883&partnerID=MN8TOARS
+  date: '2013-01-01'
+  authors:
+  - Yushkevich, P.A.
+  - Zhang, H.G.
+  id: orcid:0000-0001-8543-4016/work/37978274
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -16827,8 +17193,12 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84894620675&partnerID=MN8TOARS
+  date: '2013-01-01'
+  authors:
+  - Wang, H.
+  - Yushkevich, P.A.
+  id: orcid:0000-0001-8543-4016/work/37978261
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -16853,7 +17223,7 @@
 - id: doi:10.1109/tpami.2012.143
   title: Multi-Atlas Segmentation with Joint Label Fusion
   authors:
-  - ' Hongzhi Wang'
+  - Hongzhi Wang
   - J. W. Suh
   - S. R. Das
   - J. B. Pluta
@@ -16906,8 +17276,17 @@
   file: orcid.yaml
 - title: Multi-atlas segmentation with robust label transfer and label fusion.
   publisher: 'Information processing in medical imaging : proceedings of the ... conference'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84901255308&partnerID=MN8TOARS
+  date: '2013-01-01'
+  authors:
+  - Wang, H.
+  - Pouch, A.
+  - Takabe, M.
+  - Jackson, B.
+  - Gorman, J.
+  - Gorman, R.
+  - Yushkevich, P.A.
+  id: orcid:0000-0001-8543-4016/work/37978282
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -16915,35 +17294,36 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84894630924&partnerID=MN8TOARS
+  date: '2013-01-01'
+  authors:
+  - Wang, H.
+  - Yushkevich, P.A.
+  id: orcid:0000-0001-8543-4016/work/37978280
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000317030501401
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000317030501401
+- title: SEMANTIC AND EPISODIC MEMORY CORRELATE WITH MEDIAL TEMPORAL LOBE SUBFIELDS
+    IN SEMANTIC DEMENTIA
+  publisher: JOURNAL OF COGNITIVE NEUROSCIENCE
+  date: '2013-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935030
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000332068604095
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000332068604095
+- title: Subfields of Medial Temporal Lobe Involvement in Prodromal Alzheimer's Disease
+    and Semantic Dementia
+  publisher: NEUROLOGY
+  date: '2013-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935026
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000332068604109
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000332068604109
+- title: White Matter Disease Correlates with Naming Impairment in Semantic Variant
+    Primary Progressive Aphasia
+  publisher: NEUROLOGY
+  date: '2013-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935025
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -16961,21 +17341,19 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000303204802388
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000303204802388
+- title: A Diffusion Tensor Imaging Analysis of White Matter Disease in Corticobasal
+    Syndrome
+  publisher: NEUROLOGY
+  date: '2012-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935036
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000303204801267
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000303204801267
+- title: Comparative Methods for Analyzing Diffusion Tensor Imaging in Semantic Variant
+    Primary Progressive Aphasia
+  publisher: NEUROLOGY
+  date: '2012-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935040
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17029,7 +17407,7 @@
     registration'
   authors:
   - P. A. Yushkevich
-  - ' Hongzhi Wang'
+  - Hongzhi Wang
   - J. Pluta
   - B. B. Avants
   publisher: 2012 IEEE Conference on Computer Vision and Pattern Recognition
@@ -17057,12 +17435,12 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000371316700053
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000371316700053
+- title: Guiding Automatic Segmentation with Multiple Manual Segmentations
+  publisher: MEDICAL IMAGE COMPUTING AND COMPUTER-ASSISTED INTERVENTION - MICCAI 2012,
+    PT II
+  date: '2012-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84988884418&partnerID=MN8TOARS
+  id: orcid:0000-0001-8543-4016/work/230935043
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17070,8 +17448,12 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84872906188&partnerID=MN8TOARS
+  date: '2012-01-01'
+  authors:
+  - Wang, H.
+  - Yushkevich, P.A.
+  id: orcid:0000-0001-8543-4016/work/9606133
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17137,7 +17519,7 @@
 - id: doi:10.1109/cvpr.2012.6247765
   title: Spatial bias in multi-atlas based segmentation
   authors:
-  - ' Hongzhi Wang'
+  - Hongzhi Wang
   - P. A. Yushkevich
   publisher: 2012 IEEE Conference on Computer Vision and Pattern Recognition
   date: '2012-06-01'
@@ -17145,30 +17527,27 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000303204801269
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000303204801269
+- title: The Contribution of White Matter Neuroimaging to Multimodal Diagnosis of
+    Frontotemporal Lobar Degeneration
+  publisher: NEUROLOGY
+  date: '2012-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935039
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000303204801274
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000303204801274
+- title: User-Independent Analyses of White Matter Tractography in Primary Progressive
+    Aphasia
+  publisher: NEUROLOGY
+  date: '2012-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935037
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000303204801270
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000303204801270
+- title: White Matter Tract Specific Analysis of Behaviorial Variant Frontotemporal
+    Degeneration
+  publisher: NEUROLOGY
+  date: '2012-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935038
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17240,8 +17619,15 @@
   file: orcid.yaml
 - title: Optimal weights for multi-atlas label fusion.
   publisher: 'Information processing in medical imaging : proceedings of the ... conference'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-80052320717&partnerID=MN8TOARS
+  date: '2011-01-01'
+  authors:
+  - Altinay, M.
+  - Pluta, J.
+  - Suh, J.W.
+  - Wang, H.
+  - Yushkevich, P.
+  id: orcid:0000-0001-8543-4016/work/9606145
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17260,12 +17646,11 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000288149301497
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000288149301497
+- title: 'White Matter Pathology Associated with Frontotemporal Lobar Degeneration
+    and Alzheimer Disease: A Diffusion Tensor Imaging Study'
+  publisher: NEUROLOGY
+  date: '2011-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935054
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17290,8 +17675,15 @@
   publisher: 'Conference proceedings : ... Annual International Conference of the
     IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine
     and Biology Society. Conference'
-  date: '2026-10-22'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79953192248&partnerID=MN8TOARS
+  date: '2010-01-01'
+  authors:
+  - Butakoff, C.
+  - Frangi, A.F.
+  - Huguet, M.
+  - Tobon-Gomez, C.
+  - Yushkevich, P.
+  id: orcid:0000-0001-8543-4016/work/9606148
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17316,8 +17708,16 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84856970375&partnerID=MN8TOARS
+  date: '2010-01-01'
+  authors:
+  - Sun, H.
+  - Frangi, A.F.
+  - Wang, H.
+  - Sukno, F.M.
+  - Tobon-Gomez, C.
+  - Yushkevich, P.A.
+  id: orcid:0000-0001-8543-4016/work/37978271
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17398,8 +17798,19 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79958783537&partnerID=MN8TOARS
+  date: '2010-01-01'
+  authors:
+  - Wang, H.
+  - Das, S.
+  - Pluta, J.
+  - Craige, C.
+  - Altinay, M.
+  - Avants, B.
+  - Weiner, M.
+  - Mueller, S.
+  - Yushkevich, P.
+  id: orcid:0000-0001-8543-4016/work/37978277
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17408,8 +17819,17 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79953317407&partnerID=MN8TOARS
+  date: '2009-01-01'
+  authors:
+  - Zhang, H.
+  - Awate, S.P.
+  - Das, S.R.
+  - Woo, J.H.
+  - Melhem, E.R.
+  - Gee, J.C.
+  - Yushkevich, P.A.
+  id: orcid:0000-0001-8543-4016/work/37978263
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17429,8 +17849,14 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551685573&partnerID=MN8TOARS
+  date: '2009-01-01'
+  authors:
+  - Awate, S.P.
+  - Yushkevich, P.
+  - Licht, D.
+  - Gee, J.C.
+  id: orcid:0000-0001-8543-4016/work/37978248
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17457,8 +17883,15 @@
 - title: Multivariate high-dimensional cortical folding analysis, combining complexity
     and shape, in neonates with congenital heart disease.
   publisher: 'Information processing in medical imaging : proceedings of the ... conference'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-70349318362&partnerID=MN8TOARS
+  date: '2009-01-01'
+  authors:
+  - Awate, S.P.
+  - Gee, J.C.
+  - Licht, D.
+  - Song, Z.
+  - Yushkevich, P.
+  id: orcid:0000-0001-8543-4016/work/9606165
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17484,8 +17917,14 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883842871&partnerID=MN8TOARS
+  date: '2009-01-01'
+  authors:
+  - Zhang, H.
+  - Yushkevich, P.A.
+  - Rueckert, D.
+  - Gee, J.C.
+  id: orcid:0000-0001-8543-4016/work/37978266
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17511,8 +17950,24 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551689701&partnerID=MN8TOARS
+  date: '2008-01-01'
+  authors:
+  - Awate, S.P.
+  - Win, L.
+  - Yushkevich, P.
+  - Schultz, R.T.
+  - Gee, J.C.
+  id: orcid:0000-0001-8543-4016/work/37978276
+  orcid: 0000-0001-8543-4016
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Cardiac Medial Modeling and Time-Course Heart Wall Thickness Analysis
+  publisher: MEDICAL IMAGE COMPUTING AND COMPUTER-ASSISTED INTERVENTION - MICCAI 2008,
+    PT II, PROCEEDINGS
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-58849096705&partnerID=MN8TOARS
+  date: '2008-01-01'
+  id: doi:10.1007/978-3-540-85990-1-92
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17520,17 +17975,23 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551683880&partnerID=MN8TOARS
+  date: '2008-01-01'
+  authors:
+  - Sun, H.
+  - Avants, B.B.
+  - Frangi, A.F.
+  - Sukno, F.
+  - Geel, J.C.
+  - Yushkevich, P.A.
+  id: orcid:0000-0001-8543-4016/work/37978255
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000267812900001
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000267812900001
+- title: Medial Representations Mathematics, Algorithms and Applications Introduction
+  publisher: 'MEDIAL REPRESENTATIONS: MATHEMATICS, ALGORITHMS AND APPLICATIONS'
+  date: '2008-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935083
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17539,26 +18000,34 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-80052635049&partnerID=MN8TOARS
+  date: '2008-01-01'
+  authors:
+  - Yushkevich, P.A.
+  - Avants, B.B.
+  - Pluta, J.
+  - Minkoff, D.
+  - Detre, J.A.
+  - Grossman, M.
+  - Gee, J.C.
+  id: orcid:0000-0001-8543-4016/work/37978273
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000267812900008
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000267812900008
+- title: Synthesis, Deformation, and Statistics of 3D Objects via M-Reps
+  publisher: 'MEDIAL REPRESENTATIONS: MATHEMATICS, ALGORITHMS AND APPLICATIONS'
+  date: '2008-01-01'
+  id: orcid:0000-0001-8543-4016/work/230935082
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000250917700094
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000250917700094
+- title: Evaluation of shape-based normalization in the corpus callosum for white
+    matter connectivity analysis
+  publisher: MEDICAL IMAGE COMPUTING AND COMPUTER-ASSISTED INTERVENTION- MICCAI 2007,
+    PT 2, PROCEEDINGS
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-38349100540&partnerID=MN8TOARS
+  date: '2007-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934758
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17567,17 +18036,26 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883848794&partnerID=MN8TOARS
+  date: '2007-01-01'
+  authors:
+  - Sun, H.
+  - Yushkevich, P.A.
+  - Zhang, H.
+  - Cook, P.A.
+  - Duda, J.T.
+  - Simon, T.J.
+  - Gee, J.C.
+  id: orcid:0000-0001-8543-4016/work/37978283
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000250917700026
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000250917700026
+- title: Unbiased white matter atlas construction using diffusion tensor images
+  publisher: MEDICAL IMAGE COMPUTING AND COMPUTER-ASSISTED INTERVENTION- MICCAI 2007,
+    PT 2, PROCEEDINGS
+  date: '2007-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-38349016804&partnerID=MN8TOARS
+  id: orcid:0000-0001-8543-4016/work/230934759
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17585,8 +18063,14 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551689580&partnerID=MN8TOARS
+  date: '2007-01-01'
+  authors:
+  - Zhang, H.
+  - Yushkevich, P.A.
+  - Rueckert, D.
+  - Gee, J.C.
+  id: orcid:0000-0001-8543-4016/work/37978267
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17594,26 +18078,37 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883845895&partnerID=MN8TOARS
+  date: '2006-01-01'
+  authors:
+  - Yushkevich, P.A.
+  - Detre, J.A.
+  - Tang, K.Z.
+  - Hoang, A.
+  - Mechanic-Hamilton, D.
+  - Fernandez-Seara, M.A.
+  - Korczykowski, M.
+  - Zhang, H.
+  - Gee, J.C.
+  id: orcid:0000-0001-8543-4016/work/37978251
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000241556700035
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000241556700035
+- title: Hippocampus-specific fMRI group activation analysis with continuous m-reps
+  publisher: MEDICAL IMAGE COMPUTING AND COMPUTER-ASSISTED INTERVENTION - MICCAI 2006,
+    PT 2
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33750237211&partnerID=MN8TOARS
+  date: '2006-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934764
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000233337000021
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000233337000021
+- title: An automated approach to connectivity-based partitioning of brain structures
+  publisher: MEDICAL IMAGE COMPUTING AND COMPUTER-ASSISTED INTERVENTION - MICCAI 2005,
+    PT 1
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33744818214&partnerID=MN8TOARS
+  date: '2005-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934772
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17621,8 +18116,18 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551687810&partnerID=MN8TOARS
+  date: '2005-01-01'
+  authors:
+  - Cook, P.A.
+  - Zhang, H.
+  - Avants, B.B.
+  - Yushkevich, P.
+  - Alexander, D.C.
+  - Gee, J.C.
+  - Ciccarelli, O.
+  - Thompson, A.J.
+  id: orcid:0000-0001-8543-4016/work/37978249
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17631,25 +18136,35 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551685681&partnerID=MN8TOARS
+  date: '2005-01-01'
+  authors:
+  - Zhang, H.
+  - Yushkevich, P.A.
+  - Gee, J.C.
+  id: orcid:0000-0001-8543-4016/work/37978252
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000230871900014
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000230871900014
+- title: Parametric medial shape representation in 3-D via the Poisson partial differential
+    equation with non-linear boundary conditions
+  publisher: INFORMATION PROCESSING IN MEDICAL IMAGING, PROCEEDINGS
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-26444586056&partnerID=MN8TOARS
+  date: '2005-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934773
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - title: Parametric medial shape representation in 3-D via the Poisson partial differential
     equation with non-linear boundary conditions.
   publisher: 'Information processing in medical imaging : proceedings of the ... conference'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-34047233686&partnerID=MN8TOARS
+  date: '2005-01-01'
+  authors:
+  - Gee, J.C.
+  - Yushkevich, P.A.
+  - Zhang, H.
+  id: orcid:0000-0001-8543-4016/work/9606194
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17658,34 +18173,43 @@
   publisher: 'Medical image computing and computer-assisted intervention : MICCAI
     ... International Conference on Medical Image Computing and Computer-Assisted
     Intervention'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79551687302&partnerID=MN8TOARS
+  date: '2005-01-01'
+  authors:
+  - Yushkevich, P.A.
+  - Zhang, H.
+  - Gee, J.C.
+  id: orcid:0000-0001-8543-4016/work/37978253
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000223603900113
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000223603900113
+- title: Registration of diffusion tensor images
+  publisher: PROCEEDINGS OF THE 2004 IEEE COMPUTER SOCIETY CONFERENCE ON COMPUTER
+    VISION AND PATTERN RECOGNITION, VOL 1
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-5044224015&partnerID=MN8TOARS
+  date: '2004-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934776
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000227671300082
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000227671300082
+- title: Towards diffusion <i>profile</i> image registration
+  publisher: '2004 2ND IEEE INTERNATIONAL SYMPOSIUM ON BIOMEDICAL IMAGING: MACRO TO
+    NANO, VOLS 1 and 2'
+  date: '2004-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934774
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - title: Towards diffusion profile image registration
   publisher: '2004 2nd IEEE International Symposium on Biomedical Imaging: Macro to
     Nano'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-17144366602&partnerID=MN8TOARS
+  date: '2004-01-01'
+  authors:
+  - Gee, J.C.
+  - Yushkevich, P.A.
+  - Zhang, H.
+  id: orcid:0000-0001-8543-4016/work/9606199
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17728,19 +18252,25 @@
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000185604900010
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000185604900010
+- title: Feature selection for shape-based classification of biological objects
+  publisher: INFORMATION PROCESSING IN MEDICAL IMAGING, PROCEEDINGS
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33744812523&partnerID=MN8TOARS
+  date: '2003-01-01'
+  id: orcid:0000-0001-8543-4016/work/230934779
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
 - title: Feature selection for shape-based classification of biological objects.
   publisher: 'Information processing in medical imaging : proceedings of the ... conference'
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-4644336365&partnerID=MN8TOARS
+  date: '2003-01-01'
+  authors:
+  - Csernansky, J.G.
+  - Joshi, S.
+  - Pizer, S.M.
+  - Wang, L.E.
+  - Yushkevich, P.
+  id: orcid:0000-0001-8543-4016/work/9606203
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -17763,8 +18293,14 @@
 - title: Intuitive, localized analysis of shape variability
   publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
     in Artificial Intelligence and Lecture Notes in Bioinformatics)
-  date: '2022-05-26'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84937417765&partnerID=MN8TOARS
+  date: '2001-01-01'
+  authors:
+  - Yushkevich, P.
+  - Pizer, S.M.
+  - Joshi, S.
+  - Marron, J.S.
+  id: orcid:0000-0001-8543-4016/work/37978259
   orcid: 0000-0001-8543-4016
   plugin: orcid.py
   file: orcid.yaml
@@ -20298,12 +20834,10 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:172840724
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:172840724
+- title: Bayesian Posterior Sampling for Synthetic Shape Generation of Heart Valves
+  publisher: Arxiv
+  date: '2026-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282288
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -20328,12 +20862,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:163702134
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:163702134
+- title: Biomechanically Informed Image Registration for Patient-Specific Aortic Valve
+    Strain Analysis
+  publisher: Arxiv
+  date: '2026-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282299
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -20363,12 +20896,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:173134291
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:173134291
+- title: 'Follow Your Heart: Landmark-Guided Transducer Pose Scoring for Point-of-Care
+    Echocardiography'
+  publisher: Arxiv
+  date: '2026-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282296
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -20427,12 +20959,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:001865231100125
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001865231100125
+- title: 'VFMStitch: A Vision-Foundation-Model Empowered Framework for 3D Ultrasound
+    Stitching via Geometric-Semantic Feature Fusion'
+  publisher: MEDICAL IMAGING WITH DEEP LEARNING
+  date: '2026-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282300
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -20470,12 +21001,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:100731348
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:100731348
+- title: 'ADEPT: A Noninvasive Method for Determining Elastic Parameters of Valve
+    Tissue'
+  publisher: Arxiv
+  date: '2025-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282311
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -20515,12 +21045,10 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:160364732
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:160364732
+- title: Increasing LLM response trustworthiness using voting ensembles
+  publisher: Arxiv
+  date: '2025-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282306
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -20543,21 +21071,19 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:001863954300098
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001863954300098
+- title: 'LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound
+    Stitching'
+  publisher: 8TH INTERNATIONAL CONFERENCE ON MEDICAL IMAGING WITH DEEP LEARNING
+  date: '2025-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282312
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:160461865
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:160461865
+- title: Novel point cloud registration approach for noninvasive patient specific
+    estimation of leaflet strain from 3D images of heart valves
+  publisher: Arxiv
+  date: '2025-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282305
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -20683,12 +21209,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:121679429
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:121679429
+- title: 'Towards Patient-Specific Surgical Planning for Bicuspid Aortic Valve Repair:
+    Fully Automated Segmentation of the Aortic Valve in 4D CT'
+  publisher: Arxiv
+  date: '2025-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282310
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -20748,12 +21273,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:90770666
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:90770666
+- title: Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound
+    images
+  publisher: Arxiv
+  date: '2024-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282325
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -20770,21 +21294,19 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:91348801
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:91348801
+- title: 'PRISM Lite: A lightweight model for interactive 3D placenta segmentation
+    in ultrasound'
+  publisher: Arxiv
+  date: '2024-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282323
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:89034637
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:89034637
+- title: 'SAM3D: Zero-Shot Semi-Automatic Segmentation in 3D Medical Images with the
+    Segment Anything Model'
+  publisher: Arxiv
+  date: '2024-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282324
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -21506,12 +22028,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000691401100147
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000691401100147
+- title: Correlation of Regional Aortic Wall Deformation With Finite Element Analysis
+    Derived Stress
+  publisher: JOURNAL OF VASCULAR SURGERY
+  date: '2021-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282347
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -21569,12 +22090,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000707158200113
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000707158200113
+- title: Prediction of Major Adverse Events After Endovascular Aneurysm Repair Using
+    a Machine Learning Model
+  publisher: JOURNAL OF VASCULAR SURGERY
+  date: '2021-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282344
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -21600,30 +22120,25 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000544100700399
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000544100700399
+- title: Local Aortic Wall Expansion Measured With Automated Image Analysis
+  publisher: JOURNAL OF VASCULAR SURGERY
+  date: '2020-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282355
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000607190405375
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000607190405375
+- title: Patient-Specific Analysis of Pre-Surgical Leaflet Deformations to Predict
+    Outcomes of Surgical Repair for Ischemic Mitral Regurgitation
+  publisher: CIRCULATION
+  date: '2020-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282351
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:13618389
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:13618389
+- title: Diffeomorphic Medial Modeling
+  publisher: Arxiv
+  date: '2019-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282362
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -21650,12 +22165,11 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000529998007227
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000529998007227
+- title: Virtual Reality for Visualization and Assessment of Mitral Valve Geometry
+    in Structural Heart Disease
+  publisher: CIRCULATION
+  date: '2019-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282359
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -21674,6 +22188,13 @@
   publisher: International Journal for Numerical Methods in Biomedical Engineering
   date: '2018-09-14'
   link: https://doi.org/gd35n6
+  orcid: 0000-0001-8854-5301
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Extracting Clinical Pearls From Heart Sound Waves: A Deep Learning Approach'
+  publisher: CIRCULATION
+  date: '2018-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282367
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
@@ -21791,30 +22312,27 @@
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000333330700061
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000333330700061
+- title: Automated Segmentation and Geometrical Modeling of the Tricuspid Aortic Valve
+    in 3D Echocardiographic Images
+  publisher: MEDICAL IMAGE COMPUTING AND COMPUTER-ASSISTED INTERVENTION (MICCAI 2013),
+    PT I
+  date: '2013-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282386
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000304398900083
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000304398900083
+- title: Carotid Artery Segmentation and Wall Thickness Measurement Using CTA
+  publisher: JOURNAL OF VASCULAR SURGERY
+  date: '2012-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282387
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000299738708044
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000299738708044
+- title: '4D-Echocardiographic Analysis of Degenerative Mitral Valve: Annular Dynamics
+    are Deranged in Myxomatous Degeneration'
+  publisher: CIRCULATION
+  date: '2011-01-01'
+  id: orcid:0000-0001-8854-5301/work/231282392
   orcid: 0000-0001-8854-5301
   plugin: orcid.py
   file: orcid.yaml
