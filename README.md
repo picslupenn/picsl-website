@@ -185,6 +185,28 @@ needs no access.
 Pages migrated from the old site keep their old URLs through `redirect_from` front
 matter, so old links and bookmarks still work.
 
+## Citation retrieval and review
+
+For each ORCID work, the citation generator tries these methods in order, stopping
+at the first usable result:
+
+1. Manubot using a DOI.
+2. Manubot using a PMID from the same work.
+3. Crossref using a DOI.
+4. Resolve a PMCID from the same work to a DOI through NCBI, then query Crossref.
+5. Use ORCID's metadata and flag the publication for review.
+
+Blank titles and known error-page titles trigger the next method. Missing authors
+or dates alone do not. Identifiers marked `part-of` or `version-of` are excluded
+from retrieval to avoid substituting a containing publication or another version.
+
+At the end of the **Build updated citations** step in the `update-citations` run,
+look for **ORCID metadata fallback: N publication(s) require review**. It lists
+each fallback publication's title, its citation `id:`, and all identifiers supplied
+by ORCID. Works without a DOI, PMID, or PMCID use an ORCID work ID so papers sharing
+a journal ISSN remain separate. The generated `citations.yaml` is also available
+in the run's **citations** artifact.
+
 ## Running locally without Claude Code
 
 ```sh

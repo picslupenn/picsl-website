@@ -183,9 +183,36 @@ def save_data(path, data):
         raise Exception("Can't write to file")
 
 
-@log_cache
-@cache.memoize(name="manubot", expire=90 * (60 * 60 * 24))
 def cite_with_manubot(_id):
+    # Validate cache hits too; the versioned cache excludes old unchecked results.
+    citation = _cite_with_manubot(_id)
+    validate_citation(citation)
+    return citation.copy()
+
+
+def validate_citation(citation):
+    """Reject missing metadata and known error pages, allowing partial citations."""
+    title = citation.get("title")
+    if not isinstance(title, str) or not title.strip():
+        raise ValueError("Citation has no title")
+    title = " ".join(title.casefold().split()).rstrip(".! ")
+    error_titles = {
+        "making sure you're not a bot", "just a moment", "access denied",
+        "forbidden", "not found", "404 not found", "captcha",
+        "checking your browser", "verify you are human", "are you a robot?",
+        "attention required! | cloudflare",
+    }
+    if title in error_titles:
+        raise ValueError(f"Retrieved an error page: {citation['title']}")
+    if title == "web of science" and not any(
+        citation.get(field) for field in ["authors", "publisher", "date"]
+    ):
+        raise ValueError("Retrieved a generic Web of Science page")
+
+
+@log_cache
+@cache.memoize(name="manubot-v2", expire=90 * (60 * 60 * 24))
+def _cite_with_manubot(_id):
     """
     generate citation data for source id with Manubot
     """
@@ -193,17 +220,31 @@ def cite_with_manubot(_id):
     # run manubot
     try:
         commands = ["manubot", "cite", _id, "--log-level=WARNING"]
-        output = subprocess.Popen(commands, stdout=subprocess.PIPE).communicate()
+        output = subprocess.run(
+            commands, capture_output=True, text=True, check=True, timeout=60
+        )
+    except subprocess.CalledProcessError as error:
+        raise RuntimeError(f"Manubot failed for {_id}: {(error.stderr or '').strip()}") from error
     except Exception as e:
         log(e, indent=3)
         raise Exception("Manubot could not generate citation")
 
     # parse results as json
     try:
-        manubot = json.loads(output[0])[0]
+        results = json.loads(output.stdout)
+        if not isinstance(results, list) or len(results) != 1 or not isinstance(results[0], dict):
+            raise ValueError("Expected one citation object")
+        manubot = results[0]
     except Exception:
         raise Exception("Couldn't parse Manubot response")
 
+    citation = citation_from_csl(_id, manubot)
+    validate_citation(citation)
+    return citation
+
+
+def citation_from_csl(_id, manubot):
+    """Convert CSL metadata to the fields used by the website."""
     # new citation with only needed info
     citation = {}
 
@@ -211,20 +252,22 @@ def cite_with_manubot(_id):
     citation["id"] = _id
 
     # title
-    citation["title"] = get_safe(manubot, "title", "").strip()
+    citation["title"] = (get_safe(manubot, "title", "") or "").strip()
 
     # authors
     citation["authors"] = []
-    for author in get_safe(manubot, "author", {}):
-        given = get_safe(author, "given", "").strip()
-        family = get_safe(author, "family", "").strip()
-        if given or family:
-            citation["authors"].append(" ".join([given, family]))
+    for author in get_safe(manubot, "author", []) or []:
+        given = (get_safe(author, "given", "") or "").strip()
+        family = (get_safe(author, "family", "") or "").strip()
+        name = " ".join(part for part in [given, family] if part)
+        name = name or (get_safe(author, "literal", "") or "").strip()
+        if name:
+            citation["authors"].append(name)
 
     # publisher
-    container = get_safe(manubot, "container-title", "").strip()
-    collection = get_safe(manubot, "collection-title", "").strip()
-    publisher = get_safe(manubot, "publisher", "").strip()
+    container = (get_safe(manubot, "container-title", "") or "").strip()
+    collection = (get_safe(manubot, "collection-title", "") or "").strip()
+    publisher = (get_safe(manubot, "publisher", "") or "").strip()
     citation["publisher"] = container or publisher or collection or ""
 
     # extract date part
@@ -246,7 +289,7 @@ def cite_with_manubot(_id):
         citation["date"] = ""
 
     # link
-    citation["link"] = get_safe(manubot, "URL", "").strip()
+    citation["link"] = (get_safe(manubot, "URL", "") or "").strip()
 
     # return citation data
     return citation

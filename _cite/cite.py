@@ -7,6 +7,7 @@ from importlib import import_module
 from pathlib import Path
 from dotenv import load_dotenv
 from util import *
+from retrieval import cite_orcid
 
 
 # load environment variables
@@ -113,7 +114,11 @@ for a in range(0, len(sources)):
         b_id = get_safe(sources, f"{b}.id", "")
         if b_id == a_id:
             log(f"Found duplicate {b_id}", indent=2)
+            # Preserve alternate identifiers when multiple ORCIDs list the work.
+            contexts = sources[a].get("_orcid", []) + sources[b].get("_orcid", [])
             sources[a].update(sources[b])
+            if contexts:
+                sources[a]["_orcid"] = contexts
             sources[b] = {}
 sources = [entry for entry in sources if entry]
 
@@ -127,6 +132,7 @@ log("Generating citations")
 
 # list of new citations
 citations = []
+review = []
 
 
 # loop through compiled sources
@@ -143,8 +149,19 @@ for index, source in enumerate(sources):
     # source id
     _id = get_safe(source, "id", "").strip()
 
+    if source.get("_orcid"):
+        citation, needs_review = cite_orcid(source["_orcid"])
+        if needs_review:
+            review.append({
+                "id": _id,
+                "title": citation.get("title", "[no title]"),
+                "identifiers": list(dict.fromkeys(
+                    identifier for context in source["_orcid"]
+                    for identifier in context["all-identifiers"]
+                )),
+            })
     # manubot doesn't work without an id
-    if _id:
+    elif _id:
         log("Using Manubot to generate citation", indent=1)
 
         try:
@@ -169,7 +186,7 @@ for index, source in enumerate(sources):
                 continue
 
     # preserve fields from input source, overriding existing fields
-    citation.update(source)
+    citation.update({key: value for key, value in source.items() if key != "_orcid"})
 
     # ensure date in proper format for correct date sorting
     if get_safe(citation, "date", ""):
@@ -200,6 +217,12 @@ if len(warnings):
     log(f"{len(warnings)} warning(s) occurred above", level="WARNING")
     for warning in warnings:
         log(warning, indent=1, level="WARNING")
+
+log(f"ORCID metadata fallback: {len(review)} publication(s) require review", level="WARNING" if review else "INFO")
+for entry in review:
+    log(entry["title"], indent=1, level="WARNING")
+    for identifier in dict.fromkeys([entry["id"]] + entry["identifiers"]):
+        log(f"id: {identifier}", indent=2, level="WARNING")
 
 if len(errors):
     log(f"{len(errors)} error(s) occurred above", level="ERROR")
