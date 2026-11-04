@@ -4,7 +4,11 @@ image: images/members/jim-gee.jpg
 role: principal-investigator
 aliases:
   - James C. Gee
+  - James C Gee
   - James Gee
+  - J.C. Gee
+  - J. C. Gee
+  - J GEE
   - Jim Gee
 links:
   home-page: https://www.med.upenn.edu/apps/faculty/index.php/g275/p10656
