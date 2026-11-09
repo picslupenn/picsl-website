@@ -191,7 +191,7 @@
   publisher: Human Brain Mapping
   date: '2026-05-19'
   link: https://doi.org/hcpsgd
-  orcid: 0000-0002-1985-8475
+  orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.nicl.2026.104003
@@ -2835,7 +2835,7 @@
   publisher: openRxiv
   date: '2023-01-18'
   link: https://doi.org/hcpjc6
-  orcid: 0000-0002-1985-8475
+  orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-3459157/v1
@@ -2854,7 +2854,7 @@
   publisher: Research Square Platform LLC
   date: '2023-10-30'
   link: https://doi.org/hcpsg4
-  orcid: 0000-0002-1985-8475
+  orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/braincomms/fcad147
@@ -4421,7 +4421,7 @@
   publisher: Scientific Reports
   date: '2021-04-27'
   link: https://doi.org/gj48zt
-  orcid: 0000-0002-1985-8475
+  orcid: 0000-0002-2258-0187
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.48550/arxiv.2112.06979
@@ -17842,65 +17842,6 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.64898/2026.04.18.719321
-  title: Highly replicable multisite patterns of adolescent white matter maturation
-  authors:
-  - Steven L. Meisler
-  - Matthew Cieslak
-  - "Jo\xEBlle Bagautdinova"
-  - Timothy J. Hendrickson
-  - Tanya Pandhi
-  - Andrew A. Chen
-  - Noah Hillman
-  - Hamsanandini Radhakrishnan
-  - Taylor Salo
-  - Eric Feczko
-  - Kimberly B. Weldon
-  - rae McCollum
-  - Begim Fayzullobekova
-  - Lucille A. Moore
-  - Lucinda Sisk
-  - Christos Davatzikos
-  - Hao Huang
-  - "B\xE1rbara Avelar-Pereira"
-  - Sendy Caffarra
-  - Kelly Chang
-  - Philip A. Cook
-  - Elizabeth A. Flook
-  - Teresa Gomez
-  - Mareike Grotheer
-  - McKenzie P. Hagen
-  - Zeeshan M. Huque
-  - Iliana I. Karipidis
-  - Arielle S. Keller
-  - John Kruper
-  - Audrey C. Luo
-  - Briana Macedo
-  - Kahini Mehta
-  - Jamie L. Mitchell
-  - Adam R. Pines
-  - Laura Pritschet
-  - Amelie Rauland
-  - Ethan Roy
-  - Brooke L. Sevchik
-  - Golia Shafiei
-  - S. Parker Singleton
-  - Hannah L. Stone
-  - Kevin Y. Sun
-  - Valerie J. Sydnor
-  - Tien T. Tong
-  - Maya Yablonski
-  - Jason D. Yeatman
-  - Ariel Rokem
-  - Russell T. Shinohara
-  - Damien A. Fair
-  - Theodore D. Satterthwaite
-  publisher: openRxiv
-  date: '2026-04-19'
-  link: https://doi.org/hb2frr
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2025.11.10.687672
   title: 'Diffusion MRI Processing in the HEALthy Brain and Child Development Study:
     Innovations and Applications'
@@ -17927,29 +17868,6 @@
   publisher: openRxiv
   date: '2025-11-11'
   link: https://doi.org/hcpjfz
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s42003-025-08577-9
-  title: Changes in brain connectivity and neurovascular dynamics during dexmedetomidine-induced
-    loss of consciousness
-  authors:
-  - Panagiotis Fotiadis
-  - Andrew R. McKinstry-Wu
-  - Sarah M. Weinstein
-  - Philip A. Cook
-  - Mark Elliott
-  - Matthew Cieslak
-  - Jeffrey T. Duda
-  - Theodore D. Satterthwaite
-  - Russell T. Shinohara
-  - Alexander Proekt
-  - Max B. Kelz
-  - John A. Detre
-  - Dani S. Bassett
-  publisher: Communications Biology
-  date: '2025-08-20'
-  link: https://doi.org/hcpsgg
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
@@ -18030,30 +17948,6 @@
   publisher: 'Medical Imaging 2025: Computer-Aided Diagnosis'
   date: '2025-04-04'
   link: https://doi.org/hcpsgm
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.02.15.638442
-  title: Parameter Efficient Fine-tuning of Transformer-based Masked Autoencoder Enhances
-    Resource Constrained Neuroimage Analysis
-  authors:
-  - Nikhil J. Dhinagar
-  - Saket S. Ozarkar
-  - Ketaki U. Buwa
-  - Sophia I. Thomopoulos
-  - Conor Owens-Walton
-  - Emily Laltoo
-  - Chirag Jagad
-  - Yao-Liang Chen
-  - Philip Cook
-  - Corey McMillan
-  - Chih-Chien Tsai
-  - J-J Wang
-  - Yih-Ru Wu
-  - Paul M. Thompson
-  publisher: openRxiv
-  date: '2025-02-20'
-  link: https://doi.org/hcpsgn
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
@@ -18280,30 +18174,6 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/hbm.26570
-  title: "Diffusion\n                    <scp>MRI</scp>\n                    head\
-    \ motion correction methods are highly accurate but impacted by denoising and\
-    \ sampling scheme"
-  authors:
-  - Matthew Cieslak
-  - Philip A. Cook
-  - Golia Shafiei
-  - Tinashe M. Tapera
-  - Hamsanandini Radhakrishnan
-  - Mark Elliott
-  - David R. Roalf
-  - Desmond J. Oathes
-  - Dani S. Bassett
-  - M. Dylan Tisdall
-  - Ariel Rokem
-  - Scott T. Grafton
-  - Theodore D. Satterthwaite
-  publisher: Human Brain Mapping
-  date: '2024-01-30'
-  link: https://doi.org/hcpjf2
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2024.09.23.24313179
   title: "Magnetic Resonance Imaging Data Phenotypes for the Parkinson\u2019s Progression\
     \ Markers Initiative"
@@ -18345,30 +18215,6 @@
   publisher: openRxiv
   date: '2024-08-16'
   link: https://doi.org/hcpsg2
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1117/12.3008837
-  title: Video and synthetic MRI pre-training of 3D vision architectures for neuroimage
-    analysis
-  authors:
-  - Nikhil J. Dhinagar
-  - Amit Singh
-  - Saket S. Ozarkar
-  - Ketaki U. Buwa
-  - Sophia Thomopoulos
-  - Conor Owens-Walton
-  - Emily Laltoo
-  - Yao-Liang Chen
-  - Philip A. Cook
-  - Corey McMillan
-  - Chih-Chien Tsai
-  - J-J Wang
-  - Yih-Ru Wu
-  - Paul M. Thompson
-  publisher: 'Medical Imaging 2024: Computer-Aided Diagnosis'
-  date: '2024-04-03'
-  link: https://doi.org/hcpsg3
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
@@ -18487,36 +18333,6 @@
   publisher: openRxiv
   date: '2023-02-10'
   link: https://doi.org/hcpjf3
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.celrep.2023.113487
-  title: Development of white matter fiber covariance networks supports executive
-    function in youth
-  authors:
-  - "Jo\xEBlle Bagautdinova"
-  - Josiane Bourque
-  - Valerie J. Sydnor
-  - Matthew Cieslak
-  - Aaron F. Alexander-Bloch
-  - Maxwell A. Bertolero
-  - Philip A. Cook
-  - Raquel E. Gur
-  - Ruben C. Gur
-  - Fengling Hu
-  - Bart Larsen
-  - Tyler M. Moore
-  - Hamsanandini Radhakrishnan
-  - David R. Roalf
-  - Russel T. Shinohara
-  - Tinashe M. Tapera
-  - Chenying Zhao
-  - Aristeidis Sotiras
-  - Christos Davatzikos
-  - Theodore D. Satterthwaite
-  publisher: Cell Reports
-  date: '2023-12-01'
-  link: https://doi.org/hcpsg9
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
@@ -18880,29 +18696,6 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2021.03.12.434998
-  title: 'FlywheelTools: Data Curation and Manipulation on the Flywheel Platform'
-  authors:
-  - Tinashe M. Tapera
-  - Matthew Cieslak
-  - Max Bertolero
-  - Azeez Adebimpe
-  - Geoffrey K. Aguirre
-  - Ellyn R. Butler
-  - Philip A. Cook
-  - Diego Davila
-  - Mark A. Elliott
-  - Sophia Linguiti
-  - Kristin Murtha
-  - William Tackett
-  - John A. Detre
-  - Theodore D. Satterthwaite
-  publisher: openRxiv
-  date: '2021-03-12'
-  link: https://doi.org/gszv95
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41592-021-01185-5
   title: 'QSIPrep: an integrative platform for preprocessing and reconstructing diffusion
     MRI data'
@@ -19151,44 +18944,6 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.06.11.147009
-  title: "Transdiagnostic dimensions of psychopathology explain individuals\u2019\
-    \ unique deviations from normative neurodevelopment in brain structure"
-  authors:
-  - Linden Parkes
-  - Tyler M. Moore
-  - Monica E. Calkins
-  - Philip A. Cook
-  - Matthew Cieslak
-  - David R. Roalf
-  - Daniel H. Wolf
-  - Ruben C. Gur
-  - Raquel E. Gur
-  - Theodore D. Satterthwaite
-  - Danielle S. Bassett
-  publisher: openRxiv
-  date: '2020-06-12'
-  link: https://doi.org/hcpshq
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/868810
-  title: 'Longitudinal ComBat: A Method for Harmonizing Longitudinal Multi-scanner
-    Imaging Data'
-  authors:
-  - Joanne C. Beer
-  - Nicholas J. Tustison
-  - Philip A. Cook
-  - Christos Davatzikos
-  - Yvette I. Sheline
-  - Russell T. Shinohara
-  - Kristin A. Linn
-  publisher: openRxiv
-  date: '2019-12-08'
-  link: https://doi.org/gkwj7x
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/596346
   title: Accelerated Cortical Thinning within Structural Brain Networks is Associated
     with Irritability in Youth
@@ -19219,39 +18974,6 @@
   publisher: openRxiv
   date: '2019-04-02'
   link: https://doi.org/gkwtwn
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41386-019-0508-3
-  title: Accelerated cortical thinning within structural brain networks is associated
-    with irritability in youth
-  authors:
-  - Robert J. Jirsaraie
-  - Antonia N. Kaczkurkin
-  - Sage Rush
-  - Kayla Piiwia
-  - Azeez Adebimpe
-  - Danielle S. Bassett
-  - Josiane Bourque
-  - Monica E. Calkins
-  - Matthew Cieslak
-  - Rastko Ciric
-  - Philip A. Cook
-  - Diego Davila
-  - Mark A. Elliott
-  - Ellen Leibenluft
-  - Kristin Murtha
-  - David R. Roalf
-  - Adon F. G. Rosen
-  - Kosha Ruparel
-  - Russell T. Shinohara
-  - Aristeidis Sotiras
-  - Daniel H. Wolf
-  - Christos Davatzikos
-  - Theodore D. Satterthwaite
-  publisher: Neuropsychopharmacology
-  date: '2019-09-02'
-  link: https://doi.org/gsvq44
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
@@ -19401,33 +19123,6 @@
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1523/jneurosci.2200-17.2018
-  title: Diminished Cortical Thickness Is Associated with Impulsive Choice in Adolescence
-  authors:
-  - Marieta Pehlivanova
-  - Daniel H. Wolf
-  - Aristeidis Sotiras
-  - Antonia N. Kaczkurkin
-  - Tyler M. Moore
-  - Rastko Ciric
-  - Philip A. Cook
-  - Angel Garcia de La Garza
-  - Adon F.G. Rosen
-  - Kosha Ruparel
-  - Anup Sharma
-  - Russell T. Shinohara
-  - David R. Roalf
-  - Ruben C. Gur
-  - Christos Davatzikos
-  - Raquel E. Gur
-  - Joseph W. Kable
-  - Theodore D. Satterthwaite
-  publisher: The Journal of Neuroscience
-  date: '2018-02-12'
-  link: https://doi.org/gc9hh9
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.neuroimage.2017.11.024
   title: Harmonization of cortical thickness measurements across scanners and sites
   authors:
@@ -19449,37 +19144,6 @@
   publisher: NeuroImage
   date: '2018-02-01'
   link: https://doi.org/gc8hc5
-  orcid: 0000-0002-1985-8475
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41467-018-05317-y
-  title: Linked dimensions of psychopathology and connectivity in functional brain
-    networks
-  authors:
-  - Cedric Huchuan Xia
-  - Zongming Ma
-  - Rastko Ciric
-  - Shi Gu
-  - Richard F. Betzel
-  - Antonia N. Kaczkurkin
-  - Monica E. Calkins
-  - Philip A. Cook
-  - "Angel Garc\xEDa de la Garza"
-  - Simon N. Vandekar
-  - Zaixu Cui
-  - Tyler M. Moore
-  - David R. Roalf
-  - Kosha Ruparel
-  - Daniel H. Wolf
-  - Christos Davatzikos
-  - Ruben C. Gur
-  - Raquel E. Gur
-  - Russell T. Shinohara
-  - Danielle S. Bassett
-  - Theodore D. Satterthwaite
-  publisher: Nature Communications
-  date: '2018-08-01'
-  link: https://doi.org/gd3crd
   orcid: 0000-0002-1985-8475
   plugin: orcid.py
   file: orcid.yaml
